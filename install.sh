@@ -84,8 +84,8 @@ checkGit() {
   else 
     echo -e " ${LGREEN}'git' command detected${NC}"
     echo -e "\n    Cloning ${REPO}...\n"
-    local repositoryURL="test"
-    # git clone $repositoryURL
+    local repositoryURL="https://github.com/p4nchit0z/PokeASCIILogin.git"
+    git clone $repositoryURL
   fi
 }
 
@@ -143,14 +143,12 @@ checkShellandAppendExec() {
   currentShell=$(basename $SHELL)
   if [[ $currentShell =~ [Zz][Ss][Hh] ]]; then 
     echo "    - Detected default ZSH shell"
-    # local rc_file="$HOME/.zshrc"
-    local rc_file="$HOME/testing.txt" # Delete after test
+    local rc_file="$HOME/.zshrc"
     local loginBasename=$(basename $rc_file)
 
   elif [[ $currentShell =~ [Bb][Aa][Ss][Hh] ]]; then 
     echo "    - Detected Bash shell"
-    #local rc_file="$HOME/.bashrc"
-    local rc_file="$HOME/testing.txt" # Delete after test
+    local rc_file="$HOME/.bashrc"
     local loginBasename=$(basename $rc_file)
 
   else 
