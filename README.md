@@ -29,23 +29,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<a href="https://github.com/p4nchit0z/PokeASCIILogin">
+   <img src="images/pokemonLoginPresentation.png" alt="Logo" width="1000" height="250"></a>
+![First View](images/pokemonLoginPresentation.png "PokeASCIILogin first view")
 
-<h3 align="center">project_title</h3>
+
+<h3 align="center">PokeASCIILogin</h3>
 
   <p align="center">
-    project_description
+    A simple, useless but also pretty script written in Go that prints random Pokemons across your terminal every time you login (or every time you want!)
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/p4nchit0z/PokeASCIILogin"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/p4nchit0z/PokeASCIILogin">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/p4nchit0z/PokeASCIILogin/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/p4nchit0z/PokeASCIILogin/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,10 +63,10 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#installation">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installing">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -82,9 +83,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+                                        ,'\
+          _.----.        ____         ,'  _\   ___    ___     ____
+      _,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
+      \      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
+       \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
+         \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
+          \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
+           \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
+            \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
+             \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
+              \_.-'       |__|    `-._ |              '-.|     '-.| |   |
+                                      `'                            '-._|
+                                    ASCII LOGIN
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+**Do you love Pokemon and you also use terminal a lot as I do?** Well, I thought a simple pretty message every time you log in (or every time you want) with some random Pokemon on it would be nice. And that is exactly what I did! 
+
+Nice, useless and simple!
+
+There was a time where I used [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) (a great project, by the way, check it out!). However, changing the background of my terminal was a little bit too much for me, since the background color of some Pokemon that I liked just did not fit with the colors of my font I was used to use. So I decided to write a simpler idea, based on that project, but less 'intrusive'. The solution? A simple, but pretty message.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,48 +110,72 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [The Go Programming language](https://go.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+---
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Prerequisites
 
-### Prerequisites
+Since it is written in Go, here I provide an executable binary. So you do not need to install Go on your machine. 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+*Alternative*: You just need Go on your machine
 
-### Installation
+---
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+## Installation
+I provide 2 different ways to install this script:
+#### I. Install with a simple Bash script
+1. Download `install.sh` script from the repo using `wget` or `curl` (we use `wget` in this example) [https://example.com](https://example.com)
+2. Execute the script
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   bash install.sh
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+   P.S.: you might need to provide permissions with `chmod +x install.sh` command
+
+   This will do the following:
+   - Clone the repo (create a folder and download all needed files within it)
+   - Check if files have been downloaded properly
+   - Add the executable to your `.rc` file if you are using Bash or Zsh shell. If you use a different shell you will have to add the executable manually  to your equivalent of `.rc` file (`.bashrc` in Bash, `.zshrc` in Zsh) of your shell (see step 2 in 'Manual Installation')
+   3. (Optional) You might need to give some permissions to the executable with:
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   chmod +x ./abs/path/to/PokeASCII/executable
    ```
+#### II. Manual way
+1. Clone the repo
+```
+git clone github.com/p4nchit0z/PokeASCIILogin
+```
+
+2. Add the cloned executable to your .rc file (`.bashrc` for Bash shell, `.zshrc` for ZSH shell and so on...)
+
+```
+echo "./abs/path/to/PokeASCII/executable" >> $HOME/"YOUR_RC_FILE_HERE"
+```
+for example, if your user is `MyUsername` and you use `ZSH` shell:
+```
+echo "./home/MyUsername/PokeASCIILogin/PokeASCIILogin" >> $HOME/.zshrc
+```
+
+do not forget the point `.` at `./abs/path/to/PokeASCII/executable` to execute the binary.
+
+
+3. (Optional) You might need to give some permissions to the executable with:
+   ```
+   chmod +x ./abs/path/to/PokeASCII/executable
+   ```
+
+4. Restart your terminal, or run:
+```
+source YOUR_RC_FILE_HERE
+```
+where in my example this is:
+```
+source $HOME/.zshrc
+```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -158,7 +200,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/p4nchit0z/PokeASCIILogin/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,9 +236,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+p4nchit0z - ffcarrasco@uc.cl
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/p4nchit0z/PokeASCIILogin](https://github.com/p4nchit0z/PokeASCIILogin)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,9 +247,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [PokeApi - The RESTful Pokémon API](https://pokeapi.co/)
+* [pokeapi-go - Wrapper for PokeApi in Go](https://github.com/mtslzr/pokeapi-go)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -215,16 +256,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
+[contributors-url]: https://github.com/p4nchit0z/PokeASCIILogin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
+[forks-url]: https://github.com/p4nchit0z/PokeASCIILogin/network/members
+[stars-shield]: https://img.shields.io/github/stars/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
+[stars-url]: https://github.com/p4nchit0z/PokeASCIILogin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
+[issues-url]: https://github.com/p4nchit0z/PokeASCIILogin/issues
+[license-shield]: https://img.shields.io/github/license/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
+[license-url]: https://github.com/p4nchit0z/PokeASCIILogin/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/francisco-carrasco-varela-cl
 [product-screenshot]: images/screenshot.png
