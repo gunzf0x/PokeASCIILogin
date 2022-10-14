@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 	"os"
-	"pokemon_ascii/get_data"
+	"github.com/p4nchit0z/PokeASCIILogin/get_data"
 	"strings"
 )
 
