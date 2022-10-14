@@ -178,7 +178,7 @@ checkShellandAppendExec() {
   # Write in .rc files the executable
   echo -e "    - Appending executable to ${rc_file}...\n"
   echo "# Execute PokeASCIILogin binary" >> ${rc_file}
-  echo ".${ABS_PATH_TO_BINARY}" >> ${rc_file}
+  echo "${ABS_PATH_TO_BINARY}" >> ${rc_file}
 
   createStar "*"
   echo -e "${BLUE} Finally, remember to run\n    ${CYAN}chmod +x ${ABS_PATH_TO_BINARY}"
