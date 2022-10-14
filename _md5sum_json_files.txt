@@ -1,0 +1,2 @@
+7b6d71f3a682d7ba57bda9e63ff2d0b2  config.json
+a41b641102bbc81a6041ea1ec336309a  pokemon.json
