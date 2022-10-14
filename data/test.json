@@ -1,0 +1,94 @@
+{
+ "pokemon": [
+  {
+   "name": "Bulbasaur",
+   "ID": 1,
+   "type": "grass",
+   "gen": 1,
+   "group": "starter",
+   "height": 0.7,
+   "weight": 6.9,
+   "stage": "basic"
+  },
+  {
+   "name": "Ivysaur",
+   "ID": 2,
+   "type": "grass",
+   "gen": 1,
+   "group": "starter",
+   "height": 1,
+   "weight": 13,
+   "stage": "first"
+  },
+  {
+   "name": "Venasaur",
+   "ID": 3,
+   "type": "grass",
+   "gen": 1,
+   "group": "starter",
+   "height": 2,
+   "weight": 100,
+   "stage": "second"
+  },
+  {
+   "name": "Charmander",
+   "ID": 4,
+   "type": "fire",
+   "gen": 1,
+   "group": "starter",
+   "height": 0.6,
+   "weight": 8.5,
+   "stage": "basic"
+  },
+  {
+   "name": "Charmeleon",
+   "ID": 5,
+   "type": "fire",
+   "gen": 1,
+   "group": "starter",
+   "height": 1.1,
+   "weight": 19,
+   "stage": "first"
+  },
+  {
+   "name": "Charizard",
+   "ID": 6,
+   "type": "fire",
+   "gen": 1,
+   "group": "starter",
+   "height": 1.7,
+   "weight": 90.5,
+   "stage": "second"
+  },
+  {
+   "name": "Squirtle",
+   "ID": 7,
+   "type": "water",
+   "gen": 1,
+   "group": "starter",
+   "height": 0.5,
+   "weight": 9,
+   "stage": "basic"
+  },
+  {
+   "name": "Wartortle",
+   "ID": 8,
+   "type": "water",
+   "gen": 1,
+   "group": "starter",
+   "height": 1,
+   "weight": 22.5,
+   "stage": "first"
+  },
+  {
+   "name": "Blastoise",
+   "ID": 9,
+   "type": "water",
+   "gen": 1,
+   "group": "starter",
+   "height": 1.6,
+   "weight": 85.5,
+   "stage": "second"
+  }
+ ]
+}

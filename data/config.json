@@ -1,0 +1,11 @@
+{
+  "choosePokemon": "default",
+  "group": "random",
+  "color": "default",
+  "style": "none",
+  "gen": 0,
+  "repeatType": false,
+  "repeatColor": false,
+  "showDetails": false,
+  "whiteTerminal": false 
+}

@@ -1,0 +1,8984 @@
+{
+ "pokemon": [
+  {
+   "ID": 1,
+   "gen": 1,
+   "name": "bulbasaur",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 6.9
+  },
+  {
+   "ID": 2,
+   "gen": 1,
+   "name": "ivysaur",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 1,
+   "weight": 13
+  },
+  {
+   "ID": 3,
+   "gen": 1,
+   "name": "venusaur",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 2,
+   "weight": 100
+  },
+  {
+   "ID": 4,
+   "gen": 1,
+   "name": "charmander",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 8.5
+  },
+  {
+   "ID": 5,
+   "gen": 1,
+   "name": "charmeleon",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 1.1,
+   "weight": 19
+  },
+  {
+   "ID": 6,
+   "gen": 1,
+   "name": "charizard",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.7,
+   "weight": 90.5
+  },
+  {
+   "ID": 7,
+   "gen": 1,
+   "name": "squirtle",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 9
+  },
+  {
+   "ID": 8,
+   "gen": 1,
+   "name": "wartortle",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 1,
+   "weight": 22.5
+  },
+  {
+   "ID": 9,
+   "gen": 1,
+   "name": "blastoise",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.6,
+   "weight": 85.5
+  },
+  {
+   "ID": 10,
+   "gen": 1,
+   "name": "caterpie",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.9
+  },
+  {
+   "ID": 11,
+   "gen": 1,
+   "name": "metapod",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 9.9
+  },
+  {
+   "ID": 12,
+   "gen": 1,
+   "name": "butterfree",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1.1,
+   "weight": 32
+  },
+  {
+   "ID": 13,
+   "gen": 1,
+   "name": "weedle",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.2
+  },
+  {
+   "ID": 14,
+   "gen": 1,
+   "name": "kakuna",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 10
+  },
+  {
+   "ID": 15,
+   "gen": 1,
+   "name": "beedrill",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1,
+   "weight": 29.5
+  },
+  {
+   "ID": 16,
+   "gen": 1,
+   "name": "pidgey",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.8
+  },
+  {
+   "ID": 17,
+   "gen": 1,
+   "name": "pidgeotto",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 30
+  },
+  {
+   "ID": 18,
+   "gen": 1,
+   "name": "pidgeot",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 39.5
+  },
+  {
+   "ID": 19,
+   "gen": 1,
+   "name": "rattata",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.5
+  },
+  {
+   "ID": 20,
+   "gen": 1,
+   "name": "raticate",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 18.5
+  },
+  {
+   "ID": 21,
+   "gen": 1,
+   "name": "spearow",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2
+  },
+  {
+   "ID": 22,
+   "gen": 1,
+   "name": "fearow",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 38
+  },
+  {
+   "ID": 23,
+   "gen": 1,
+   "name": "ekans",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 6.9
+  },
+  {
+   "ID": 24,
+   "gen": 1,
+   "name": "arbok",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 3.5,
+   "weight": 65
+  },
+  {
+   "ID": 25,
+   "gen": 1,
+   "name": "pikachu",
+   "type": "electric",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 6
+  },
+  {
+   "ID": 26,
+   "gen": 1,
+   "name": "raichu",
+   "type": "electric",
+   "stage": "second",
+   "group": "starter",
+   "height": 0.8,
+   "weight": 30
+  },
+  {
+   "ID": 27,
+   "gen": 1,
+   "name": "sandshrew",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 12
+  },
+  {
+   "ID": 28,
+   "gen": 1,
+   "name": "sandslash",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 29.5
+  },
+  {
+   "ID": 29,
+   "gen": 1,
+   "name": "nidoran-f",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 7
+  },
+  {
+   "ID": 30,
+   "gen": 1,
+   "name": "nidorina",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 20
+  },
+  {
+   "ID": 31,
+   "gen": 1,
+   "name": "nidoqueen",
+   "type": "poison",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 60
+  },
+  {
+   "ID": 32,
+   "gen": 1,
+   "name": "nidoran-m",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9
+  },
+  {
+   "ID": 33,
+   "gen": 1,
+   "name": "nidorino",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 19.5
+  },
+  {
+   "ID": 34,
+   "gen": 1,
+   "name": "nidoking",
+   "type": "poison",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 62
+  },
+  {
+   "ID": 35,
+   "gen": 1,
+   "name": "clefairy",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7.5
+  },
+  {
+   "ID": 36,
+   "gen": 1,
+   "name": "clefable",
+   "type": "fairy",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 40
+  },
+  {
+   "ID": 37,
+   "gen": 1,
+   "name": "vulpix",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 9.9
+  },
+  {
+   "ID": 38,
+   "gen": 1,
+   "name": "ninetales",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 19.9
+  },
+  {
+   "ID": 39,
+   "gen": 1,
+   "name": "jigglypuff",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5.5
+  },
+  {
+   "ID": 40,
+   "gen": 1,
+   "name": "wigglytuff",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1,
+   "weight": 12
+  },
+  {
+   "ID": 41,
+   "gen": 1,
+   "name": "zubat",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 7.5
+  },
+  {
+   "ID": 42,
+   "gen": 1,
+   "name": "golbat",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 55
+  },
+  {
+   "ID": 43,
+   "gen": 1,
+   "name": "oddish",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5.4
+  },
+  {
+   "ID": 44,
+   "gen": 1,
+   "name": "gloom",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 8.6
+  },
+  {
+   "ID": 45,
+   "gen": 1,
+   "name": "vileplume",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 18.6
+  },
+  {
+   "ID": 46,
+   "gen": 1,
+   "name": "paras",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 5.4
+  },
+  {
+   "ID": 47,
+   "gen": 1,
+   "name": "parasect",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 29.5
+  },
+  {
+   "ID": 48,
+   "gen": 1,
+   "name": "venonat",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 30
+  },
+  {
+   "ID": 49,
+   "gen": 1,
+   "name": "venomoth",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 12.5
+  },
+  {
+   "ID": 50,
+   "gen": 1,
+   "name": "diglett",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.8
+  },
+  {
+   "ID": 51,
+   "gen": 1,
+   "name": "dugtrio",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 33.3
+  },
+  {
+   "ID": 52,
+   "gen": 1,
+   "name": "meowth",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.2
+  },
+  {
+   "ID": 53,
+   "gen": 1,
+   "name": "persian",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 32
+  },
+  {
+   "ID": 54,
+   "gen": 1,
+   "name": "psyduck",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 19.6
+  },
+  {
+   "ID": 55,
+   "gen": 1,
+   "name": "golduck",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 76.6
+  },
+  {
+   "ID": 56,
+   "gen": 1,
+   "name": "mankey",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 28
+  },
+  {
+   "ID": 57,
+   "gen": 1,
+   "name": "primeape",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 32
+  },
+  {
+   "ID": 58,
+   "gen": 1,
+   "name": "growlithe",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 19
+  },
+  {
+   "ID": 59,
+   "gen": 1,
+   "name": "arcanine",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 155
+  },
+  {
+   "ID": 60,
+   "gen": 1,
+   "name": "poliwag",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 12.4
+  },
+  {
+   "ID": 61,
+   "gen": 1,
+   "name": "poliwhirl",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 20
+  },
+  {
+   "ID": 62,
+   "gen": 1,
+   "name": "poliwrath",
+   "type": "water",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 54
+  },
+  {
+   "ID": 63,
+   "gen": 1,
+   "name": "abra",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 19.5
+  },
+  {
+   "ID": 64,
+   "gen": 1,
+   "name": "kadabra",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 56.5
+  },
+  {
+   "ID": 65,
+   "gen": 1,
+   "name": "alakazam",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 48
+  },
+  {
+   "ID": 66,
+   "gen": 1,
+   "name": "machop",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 19.5
+  },
+  {
+   "ID": 67,
+   "gen": 1,
+   "name": "machoke",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 70.5
+  },
+  {
+   "ID": 68,
+   "gen": 1,
+   "name": "machamp",
+   "type": "fighting",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 130
+  },
+  {
+   "ID": 69,
+   "gen": 1,
+   "name": "bellsprout",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 4
+  },
+  {
+   "ID": 70,
+   "gen": 1,
+   "name": "weepinbell",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 6.4
+  },
+  {
+   "ID": 71,
+   "gen": 1,
+   "name": "victreebel",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 1.7,
+   "weight": 15.5
+  },
+  {
+   "ID": 72,
+   "gen": 1,
+   "name": "tentacool",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 45.5
+  },
+  {
+   "ID": 73,
+   "gen": 1,
+   "name": "tentacruel",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 55
+  },
+  {
+   "ID": 74,
+   "gen": 1,
+   "name": "geodude",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 20
+  },
+  {
+   "ID": 75,
+   "gen": 1,
+   "name": "graveler",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 105
+  },
+  {
+   "ID": 76,
+   "gen": 1,
+   "name": "golem",
+   "type": "rock",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 300
+  },
+  {
+   "ID": 77,
+   "gen": 1,
+   "name": "ponyta",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 30
+  },
+  {
+   "ID": 78,
+   "gen": 1,
+   "name": "rapidash",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 95
+  },
+  {
+   "ID": 79,
+   "gen": 1,
+   "name": "slowpoke",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 36
+  },
+  {
+   "ID": 80,
+   "gen": 1,
+   "name": "slowbro",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 78.5
+  },
+  {
+   "ID": 81,
+   "gen": 1,
+   "name": "magnemite",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 6
+  },
+  {
+   "ID": 82,
+   "gen": 1,
+   "name": "magneton",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 60
+  },
+  {
+   "ID": 83,
+   "gen": 1,
+   "name": "farfetchd",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 15
+  },
+  {
+   "ID": 84,
+   "gen": 1,
+   "name": "doduo",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 39.2
+  },
+  {
+   "ID": 85,
+   "gen": 1,
+   "name": "dodrio",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 85.2
+  },
+  {
+   "ID": 86,
+   "gen": 1,
+   "name": "seel",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 90
+  },
+  {
+   "ID": 87,
+   "gen": 1,
+   "name": "dewgong",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 120
+  },
+  {
+   "ID": 88,
+   "gen": 1,
+   "name": "grimer",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 30
+  },
+  {
+   "ID": 89,
+   "gen": 1,
+   "name": "muk",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 30
+  },
+  {
+   "ID": 90,
+   "gen": 1,
+   "name": "shellder",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 4
+  },
+  {
+   "ID": 91,
+   "gen": 1,
+   "name": "cloyster",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 132.5
+  },
+  {
+   "ID": 92,
+   "gen": 1,
+   "name": "gastly",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.3,
+   "weight": 0.1
+  },
+  {
+   "ID": 93,
+   "gen": 1,
+   "name": "haunter",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 0.1
+  },
+  {
+   "ID": 94,
+   "gen": 1,
+   "name": "gengar",
+   "type": "ghost",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 40.5
+  },
+  {
+   "ID": 95,
+   "gen": 1,
+   "name": "onix",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 8.8,
+   "weight": 210
+  },
+  {
+   "ID": 96,
+   "gen": 1,
+   "name": "drowzee",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 32.4
+  },
+  {
+   "ID": 97,
+   "gen": 1,
+   "name": "hypno",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 75.6
+  },
+  {
+   "ID": 98,
+   "gen": 1,
+   "name": "krabby",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 6.5
+  },
+  {
+   "ID": 99,
+   "gen": 1,
+   "name": "kingler",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 60
+  },
+  {
+   "ID": 100,
+   "gen": 1,
+   "name": "voltorb",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 10.4
+  },
+  {
+   "ID": 101,
+   "gen": 1,
+   "name": "electrode",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 66.6
+  },
+  {
+   "ID": 102,
+   "gen": 1,
+   "name": "exeggcute",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 2.5
+  },
+  {
+   "ID": 103,
+   "gen": 1,
+   "name": "exeggutor",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 120
+  },
+  {
+   "ID": 104,
+   "gen": 1,
+   "name": "cubone",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 6.5
+  },
+  {
+   "ID": 105,
+   "gen": 1,
+   "name": "marowak",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 45
+  },
+  {
+   "ID": 106,
+   "gen": 1,
+   "name": "hitmonlee",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 49.8
+  },
+  {
+   "ID": 107,
+   "gen": 1,
+   "name": "hitmonchan",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 50.2
+  },
+  {
+   "ID": 108,
+   "gen": 1,
+   "name": "lickitung",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 65.5
+  },
+  {
+   "ID": 109,
+   "gen": 1,
+   "name": "koffing",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 1
+  },
+  {
+   "ID": 110,
+   "gen": 1,
+   "name": "weezing",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 9.5
+  },
+  {
+   "ID": 111,
+   "gen": 1,
+   "name": "rhyhorn",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 115
+  },
+  {
+   "ID": 112,
+   "gen": 1,
+   "name": "rhydon",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 120
+  },
+  {
+   "ID": 113,
+   "gen": 1,
+   "name": "chansey",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 34.6
+  },
+  {
+   "ID": 114,
+   "gen": 1,
+   "name": "tangela",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 35
+  },
+  {
+   "ID": 115,
+   "gen": 1,
+   "name": "kangaskhan",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.2,
+   "weight": 80
+  },
+  {
+   "ID": 116,
+   "gen": 1,
+   "name": "horsea",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 8
+  },
+  {
+   "ID": 117,
+   "gen": 1,
+   "name": "seadra",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 25
+  },
+  {
+   "ID": 118,
+   "gen": 1,
+   "name": "goldeen",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 15
+  },
+  {
+   "ID": 119,
+   "gen": 1,
+   "name": "seaking",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 39
+  },
+  {
+   "ID": 120,
+   "gen": 1,
+   "name": "staryu",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 34.5
+  },
+  {
+   "ID": 121,
+   "gen": 1,
+   "name": "starmie",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 80
+  },
+  {
+   "ID": 122,
+   "gen": 1,
+   "name": "mr-mime",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 54.5
+  },
+  {
+   "ID": 123,
+   "gen": 1,
+   "name": "scyther",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 56
+  },
+  {
+   "ID": 124,
+   "gen": 1,
+   "name": "jynx",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 40.6
+  },
+  {
+   "ID": 125,
+   "gen": 1,
+   "name": "electabuzz",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 30
+  },
+  {
+   "ID": 126,
+   "gen": 1,
+   "name": "magmar",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 44.5
+  },
+  {
+   "ID": 127,
+   "gen": 1,
+   "name": "pinsir",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 55
+  },
+  {
+   "ID": 128,
+   "gen": 1,
+   "name": "tauros",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 88.4
+  },
+  {
+   "ID": 129,
+   "gen": 1,
+   "name": "magikarp",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 10
+  },
+  {
+   "ID": 130,
+   "gen": 1,
+   "name": "gyarados",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 6.5,
+   "weight": 235
+  },
+  {
+   "ID": 131,
+   "gen": 1,
+   "name": "lapras",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.5,
+   "weight": 220
+  },
+  {
+   "ID": 132,
+   "gen": 1,
+   "name": "ditto",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 4
+  },
+  {
+   "ID": 133,
+   "gen": 1,
+   "name": "eevee",
+   "type": "normal",
+   "stage": "basic",
+   "group": "eeveelution",
+   "height": 0.3,
+   "weight": 6.5
+  },
+  {
+   "ID": 134,
+   "gen": 1,
+   "name": "vaporeon",
+   "type": "water",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 1,
+   "weight": 29
+  },
+  {
+   "ID": 135,
+   "gen": 1,
+   "name": "jolteon",
+   "type": "electric",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 0.8,
+   "weight": 24.5
+  },
+  {
+   "ID": 136,
+   "gen": 1,
+   "name": "flareon",
+   "type": "fire",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 0.9,
+   "weight": 25
+  },
+  {
+   "ID": 137,
+   "gen": 1,
+   "name": "porygon",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 36.5
+  },
+  {
+   "ID": 138,
+   "gen": 1,
+   "name": "omanyte",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.4,
+   "weight": 7.5
+  },
+  {
+   "ID": 139,
+   "gen": 1,
+   "name": "omastar",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1,
+   "weight": 35
+  },
+  {
+   "ID": 140,
+   "gen": 1,
+   "name": "kabuto",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.5,
+   "weight": 11.5
+  },
+  {
+   "ID": 141,
+   "gen": 1,
+   "name": "kabutops",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.3,
+   "weight": 40.5
+  },
+  {
+   "ID": 142,
+   "gen": 1,
+   "name": "aerodactyl",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 1.8,
+   "weight": 59
+  },
+  {
+   "ID": 143,
+   "gen": 1,
+   "name": "snorlax",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 2.1,
+   "weight": 460
+  },
+  {
+   "ID": 144,
+   "gen": 1,
+   "name": "articuno",
+   "type": "ice",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.7,
+   "weight": 55.4
+  },
+  {
+   "ID": 145,
+   "gen": 1,
+   "name": "zapdos",
+   "type": "electric",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.6,
+   "weight": 52.6
+  },
+  {
+   "ID": 146,
+   "gen": 1,
+   "name": "moltres",
+   "type": "fire",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2,
+   "weight": 60
+  },
+  {
+   "ID": 147,
+   "gen": 1,
+   "name": "dratini",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.8,
+   "weight": 3.3
+  },
+  {
+   "ID": 148,
+   "gen": 1,
+   "name": "dragonair",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 4,
+   "weight": 16.5
+  },
+  {
+   "ID": 149,
+   "gen": 1,
+   "name": "dragonite",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 2.2,
+   "weight": 210
+  },
+  {
+   "ID": 150,
+   "gen": 1,
+   "name": "mewtwo",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2,
+   "weight": 122
+  },
+  {
+   "ID": 151,
+   "gen": 1,
+   "name": "mew",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 0.4,
+   "weight": 4
+  },
+  {
+   "ID": 152,
+   "gen": 2,
+   "name": "chikorita",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.9,
+   "weight": 6.4
+  },
+  {
+   "ID": 153,
+   "gen": 2,
+   "name": "bayleef",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 1.2,
+   "weight": 15.8
+  },
+  {
+   "ID": 154,
+   "gen": 2,
+   "name": "meganium",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.8,
+   "weight": 100.5
+  },
+  {
+   "ID": 155,
+   "gen": 2,
+   "name": "cyndaquil",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 7.9
+  },
+  {
+   "ID": 156,
+   "gen": 2,
+   "name": "quilava",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.9,
+   "weight": 19
+  },
+  {
+   "ID": 157,
+   "gen": 2,
+   "name": "typhlosion",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.7,
+   "weight": 79.5
+  },
+  {
+   "ID": 158,
+   "gen": 2,
+   "name": "totodile",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 9.5
+  },
+  {
+   "ID": 159,
+   "gen": 2,
+   "name": "croconaw",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 1.1,
+   "weight": 25
+  },
+  {
+   "ID": 160,
+   "gen": 2,
+   "name": "feraligatr",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 2.3,
+   "weight": 88.8
+  },
+  {
+   "ID": 161,
+   "gen": 2,
+   "name": "sentret",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 6
+  },
+  {
+   "ID": 162,
+   "gen": 2,
+   "name": "furret",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 32.5
+  },
+  {
+   "ID": 163,
+   "gen": 2,
+   "name": "hoothoot",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 21.2
+  },
+  {
+   "ID": 164,
+   "gen": 2,
+   "name": "noctowl",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 40.8
+  },
+  {
+   "ID": 165,
+   "gen": 2,
+   "name": "ledyba",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 10.8
+  },
+  {
+   "ID": 166,
+   "gen": 2,
+   "name": "ledian",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 35.6
+  },
+  {
+   "ID": 167,
+   "gen": 2,
+   "name": "spinarak",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 8.5
+  },
+  {
+   "ID": 168,
+   "gen": 2,
+   "name": "ariados",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 33.5
+  },
+  {
+   "ID": 169,
+   "gen": 2,
+   "name": "crobat",
+   "type": "poison",
+   "stage": "second",
+   "group": "none",
+   "height": 1.8,
+   "weight": 75
+  },
+  {
+   "ID": 170,
+   "gen": 2,
+   "name": "chinchou",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 12
+  },
+  {
+   "ID": 171,
+   "gen": 2,
+   "name": "lanturn",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 22.5
+  },
+  {
+   "ID": 172,
+   "gen": 2,
+   "name": "pichu",
+   "type": "electric",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.3,
+   "weight": 2
+  },
+  {
+   "ID": 173,
+   "gen": 2,
+   "name": "cleffa",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.3,
+   "weight": 3
+  },
+  {
+   "ID": 174,
+   "gen": 2,
+   "name": "igglybuff",
+   "type": "normal",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.3,
+   "weight": 1
+  },
+  {
+   "ID": 175,
+   "gen": 2,
+   "name": "togepi",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.3,
+   "weight": 1.5
+  },
+  {
+   "ID": 176,
+   "gen": 2,
+   "name": "togetic",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 3.2
+  },
+  {
+   "ID": 177,
+   "gen": 2,
+   "name": "natu",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 2
+  },
+  {
+   "ID": 178,
+   "gen": 2,
+   "name": "xatu",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 15
+  },
+  {
+   "ID": 179,
+   "gen": 2,
+   "name": "mareep",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7.8
+  },
+  {
+   "ID": 180,
+   "gen": 2,
+   "name": "flaaffy",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 13.3
+  },
+  {
+   "ID": 181,
+   "gen": 2,
+   "name": "ampharos",
+   "type": "electric",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 61.5
+  },
+  {
+   "ID": 182,
+   "gen": 2,
+   "name": "bellossom",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.8
+  },
+  {
+   "ID": 183,
+   "gen": 2,
+   "name": "marill",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.4,
+   "weight": 8.5
+  },
+  {
+   "ID": 184,
+   "gen": 2,
+   "name": "azumarill",
+   "type": "water",
+   "stage": "second",
+   "group": "none",
+   "height": 0.8,
+   "weight": 28.5
+  },
+  {
+   "ID": 185,
+   "gen": 2,
+   "name": "sudowoodo",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 38
+  },
+  {
+   "ID": 186,
+   "gen": 2,
+   "name": "politoed",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 33.9
+  },
+  {
+   "ID": 187,
+   "gen": 2,
+   "name": "hoppip",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 0.5
+  },
+  {
+   "ID": 188,
+   "gen": 2,
+   "name": "skiploom",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 1
+  },
+  {
+   "ID": 189,
+   "gen": 2,
+   "name": "jumpluff",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 0.8,
+   "weight": 3
+  },
+  {
+   "ID": 190,
+   "gen": 2,
+   "name": "aipom",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 11.5
+  },
+  {
+   "ID": 191,
+   "gen": 2,
+   "name": "sunkern",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.8
+  },
+  {
+   "ID": 192,
+   "gen": 2,
+   "name": "sunflora",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 8.5
+  },
+  {
+   "ID": 193,
+   "gen": 2,
+   "name": "yanma",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 38
+  },
+  {
+   "ID": 194,
+   "gen": 2,
+   "name": "wooper",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 8.5
+  },
+  {
+   "ID": 195,
+   "gen": 2,
+   "name": "quagsire",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 75
+  },
+  {
+   "ID": 196,
+   "gen": 2,
+   "name": "espeon",
+   "type": "psychic",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 0.9,
+   "weight": 26.5
+  },
+  {
+   "ID": 197,
+   "gen": 2,
+   "name": "umbreon",
+   "type": "dark",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 1,
+   "weight": 27
+  },
+  {
+   "ID": 198,
+   "gen": 2,
+   "name": "murkrow",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 2.1
+  },
+  {
+   "ID": 199,
+   "gen": 2,
+   "name": "slowking",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 79.5
+  },
+  {
+   "ID": 200,
+   "gen": 2,
+   "name": "misdreavus",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 1
+  },
+  {
+   "ID": 201,
+   "gen": 2,
+   "name": "unown",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5
+  },
+  {
+   "ID": 202,
+   "gen": 2,
+   "name": "wobbuffet",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 28.5
+  },
+  {
+   "ID": 203,
+   "gen": 2,
+   "name": "girafarig",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 41.5
+  },
+  {
+   "ID": 204,
+   "gen": 2,
+   "name": "pineco",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7.2
+  },
+  {
+   "ID": 205,
+   "gen": 2,
+   "name": "forretress",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 125.8
+  },
+  {
+   "ID": 206,
+   "gen": 2,
+   "name": "dunsparce",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 14
+  },
+  {
+   "ID": 207,
+   "gen": 2,
+   "name": "gligar",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 64.8
+  },
+  {
+   "ID": 208,
+   "gen": 2,
+   "name": "steelix",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 9.2,
+   "weight": 400
+  },
+  {
+   "ID": 209,
+   "gen": 2,
+   "name": "snubbull",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7.8
+  },
+  {
+   "ID": 210,
+   "gen": 2,
+   "name": "granbull",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 48.7
+  },
+  {
+   "ID": 211,
+   "gen": 2,
+   "name": "qwilfish",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 3.9
+  },
+  {
+   "ID": 212,
+   "gen": 2,
+   "name": "scizor",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 118
+  },
+  {
+   "ID": 213,
+   "gen": 2,
+   "name": "shuckle",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 20.5
+  },
+  {
+   "ID": 214,
+   "gen": 2,
+   "name": "heracross",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 54
+  },
+  {
+   "ID": 215,
+   "gen": 2,
+   "name": "sneasel",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 28
+  },
+  {
+   "ID": 216,
+   "gen": 2,
+   "name": "teddiursa",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8.8
+  },
+  {
+   "ID": 217,
+   "gen": 2,
+   "name": "ursaring",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 125.8
+  },
+  {
+   "ID": 218,
+   "gen": 2,
+   "name": "slugma",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 35
+  },
+  {
+   "ID": 219,
+   "gen": 2,
+   "name": "magcargo",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 55
+  },
+  {
+   "ID": 220,
+   "gen": 2,
+   "name": "swinub",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 6.5
+  },
+  {
+   "ID": 221,
+   "gen": 2,
+   "name": "piloswine",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 55.8
+  },
+  {
+   "ID": 222,
+   "gen": 2,
+   "name": "corsola",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 5
+  },
+  {
+   "ID": 223,
+   "gen": 2,
+   "name": "remoraid",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 12
+  },
+  {
+   "ID": 224,
+   "gen": 2,
+   "name": "octillery",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 28.5
+  },
+  {
+   "ID": 225,
+   "gen": 2,
+   "name": "delibird",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 16
+  },
+  {
+   "ID": 226,
+   "gen": 2,
+   "name": "mantine",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 2.1,
+   "weight": 220
+  },
+  {
+   "ID": 227,
+   "gen": 2,
+   "name": "skarmory",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.7,
+   "weight": 50.5
+  },
+  {
+   "ID": 228,
+   "gen": 2,
+   "name": "houndour",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 10.8
+  },
+  {
+   "ID": 229,
+   "gen": 2,
+   "name": "houndoom",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 35
+  },
+  {
+   "ID": 230,
+   "gen": 2,
+   "name": "kingdra",
+   "type": "water",
+   "stage": "second",
+   "group": "none",
+   "height": 1.8,
+   "weight": 152
+  },
+  {
+   "ID": 231,
+   "gen": 2,
+   "name": "phanpy",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 33.5
+  },
+  {
+   "ID": 232,
+   "gen": 2,
+   "name": "donphan",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 120
+  },
+  {
+   "ID": 233,
+   "gen": 2,
+   "name": "porygon2",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 32.5
+  },
+  {
+   "ID": 234,
+   "gen": 2,
+   "name": "stantler",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 71.2
+  },
+  {
+   "ID": 235,
+   "gen": 2,
+   "name": "smeargle",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 58
+  },
+  {
+   "ID": 236,
+   "gen": 2,
+   "name": "tyrogue",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.7,
+   "weight": 21
+  },
+  {
+   "ID": 237,
+   "gen": 2,
+   "name": "hitmontop",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 48
+  },
+  {
+   "ID": 238,
+   "gen": 2,
+   "name": "smoochum",
+   "type": "ice",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.4,
+   "weight": 6
+  },
+  {
+   "ID": 239,
+   "gen": 2,
+   "name": "elekid",
+   "type": "electric",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.6,
+   "weight": 23.5
+  },
+  {
+   "ID": 240,
+   "gen": 2,
+   "name": "magby",
+   "type": "fire",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.7,
+   "weight": 21.4
+  },
+  {
+   "ID": 241,
+   "gen": 2,
+   "name": "miltank",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 75.5
+  },
+  {
+   "ID": 242,
+   "gen": 2,
+   "name": "blissey",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 46.8
+  },
+  {
+   "ID": 243,
+   "gen": 2,
+   "name": "raikou",
+   "type": "electric",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.9,
+   "weight": 178
+  },
+  {
+   "ID": 244,
+   "gen": 2,
+   "name": "entei",
+   "type": "fire",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.1,
+   "weight": 198
+  },
+  {
+   "ID": 245,
+   "gen": 2,
+   "name": "suicune",
+   "type": "water",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2,
+   "weight": 187
+  },
+  {
+   "ID": 246,
+   "gen": 2,
+   "name": "larvitar",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 72
+  },
+  {
+   "ID": 247,
+   "gen": 2,
+   "name": "pupitar",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 152
+  },
+  {
+   "ID": 248,
+   "gen": 2,
+   "name": "tyranitar",
+   "type": "rock",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 2,
+   "weight": 202
+  },
+  {
+   "ID": 249,
+   "gen": 2,
+   "name": "lugia",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 5.2,
+   "weight": 216
+  },
+  {
+   "ID": 250,
+   "gen": 2,
+   "name": "ho-oh",
+   "type": "fire",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3.8,
+   "weight": 199
+  },
+  {
+   "ID": 251,
+   "gen": 2,
+   "name": "celebi",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 5
+  },
+  {
+   "ID": 252,
+   "gen": 3,
+   "name": "treecko",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 5
+  },
+  {
+   "ID": 253,
+   "gen": 3,
+   "name": "grovyle",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.9,
+   "weight": 21.6
+  },
+  {
+   "ID": 254,
+   "gen": 3,
+   "name": "sceptile",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.7,
+   "weight": 52.2
+  },
+  {
+   "ID": 255,
+   "gen": 3,
+   "name": "torchic",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 2.5
+  },
+  {
+   "ID": 256,
+   "gen": 3,
+   "name": "combusken",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.9,
+   "weight": 19.5
+  },
+  {
+   "ID": 257,
+   "gen": 3,
+   "name": "blaziken",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.9,
+   "weight": 52
+  },
+  {
+   "ID": 258,
+   "gen": 3,
+   "name": "mudkip",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 7.6
+  },
+  {
+   "ID": 259,
+   "gen": 3,
+   "name": "marshtomp",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 28
+  },
+  {
+   "ID": 260,
+   "gen": 3,
+   "name": "swampert",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.5,
+   "weight": 81.9
+  },
+  {
+   "ID": 261,
+   "gen": 3,
+   "name": "poochyena",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 13.6
+  },
+  {
+   "ID": 262,
+   "gen": 3,
+   "name": "mightyena",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 37
+  },
+  {
+   "ID": 263,
+   "gen": 3,
+   "name": "zigzagoon",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 17.5
+  },
+  {
+   "ID": 264,
+   "gen": 3,
+   "name": "linoone",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 32.5
+  },
+  {
+   "ID": 265,
+   "gen": 3,
+   "name": "wurmple",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.6
+  },
+  {
+   "ID": 266,
+   "gen": 3,
+   "name": "silcoon",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 10
+  },
+  {
+   "ID": 267,
+   "gen": 3,
+   "name": "beautifly",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1,
+   "weight": 28.4
+  },
+  {
+   "ID": 268,
+   "gen": 3,
+   "name": "cascoon",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 0.7,
+   "weight": 11.5
+  },
+  {
+   "ID": 269,
+   "gen": 3,
+   "name": "dustox",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 31.6
+  },
+  {
+   "ID": 270,
+   "gen": 3,
+   "name": "lotad",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 2.6
+  },
+  {
+   "ID": 271,
+   "gen": 3,
+   "name": "lombre",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 32.5
+  },
+  {
+   "ID": 272,
+   "gen": 3,
+   "name": "ludicolo",
+   "type": "water",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 55
+  },
+  {
+   "ID": 273,
+   "gen": 3,
+   "name": "seedot",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 4
+  },
+  {
+   "ID": 274,
+   "gen": 3,
+   "name": "nuzleaf",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 28
+  },
+  {
+   "ID": 275,
+   "gen": 3,
+   "name": "shiftry",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 59.6
+  },
+  {
+   "ID": 276,
+   "gen": 3,
+   "name": "taillow",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.3
+  },
+  {
+   "ID": 277,
+   "gen": 3,
+   "name": "swellow",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 19.8
+  },
+  {
+   "ID": 278,
+   "gen": 3,
+   "name": "wingull",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 9.5
+  },
+  {
+   "ID": 279,
+   "gen": 3,
+   "name": "pelipper",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 28
+  },
+  {
+   "ID": 280,
+   "gen": 3,
+   "name": "ralts",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 6.6
+  },
+  {
+   "ID": 281,
+   "gen": 3,
+   "name": "kirlia",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 20.2
+  },
+  {
+   "ID": 282,
+   "gen": 3,
+   "name": "gardevoir",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 48.4
+  },
+  {
+   "ID": 283,
+   "gen": 3,
+   "name": "surskit",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 1.7
+  },
+  {
+   "ID": 284,
+   "gen": 3,
+   "name": "masquerain",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 3.6
+  },
+  {
+   "ID": 285,
+   "gen": 3,
+   "name": "shroomish",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.5
+  },
+  {
+   "ID": 286,
+   "gen": 3,
+   "name": "breloom",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 39.2
+  },
+  {
+   "ID": 287,
+   "gen": 3,
+   "name": "slakoth",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 24
+  },
+  {
+   "ID": 288,
+   "gen": 3,
+   "name": "vigoroth",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 46.5
+  },
+  {
+   "ID": 289,
+   "gen": 3,
+   "name": "slaking",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 2,
+   "weight": 130.5
+  },
+  {
+   "ID": 290,
+   "gen": 3,
+   "name": "nincada",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5.5
+  },
+  {
+   "ID": 291,
+   "gen": 3,
+   "name": "ninjask",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 12
+  },
+  {
+   "ID": 292,
+   "gen": 3,
+   "name": "shedinja",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 1.2
+  },
+  {
+   "ID": 293,
+   "gen": 3,
+   "name": "whismur",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 16.3
+  },
+  {
+   "ID": 294,
+   "gen": 3,
+   "name": "loudred",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 40.5
+  },
+  {
+   "ID": 295,
+   "gen": 3,
+   "name": "exploud",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 84
+  },
+  {
+   "ID": 296,
+   "gen": 3,
+   "name": "makuhita",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 86.4
+  },
+  {
+   "ID": 297,
+   "gen": 3,
+   "name": "hariyama",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 2.3,
+   "weight": 253.8
+  },
+  {
+   "ID": 298,
+   "gen": 3,
+   "name": "azurill",
+   "type": "normal",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.2,
+   "weight": 2
+  },
+  {
+   "ID": 299,
+   "gen": 3,
+   "name": "nosepass",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 97
+  },
+  {
+   "ID": 300,
+   "gen": 3,
+   "name": "skitty",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11
+  },
+  {
+   "ID": 301,
+   "gen": 3,
+   "name": "delcatty",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 32.6
+  },
+  {
+   "ID": 302,
+   "gen": 3,
+   "name": "sableye",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 11
+  },
+  {
+   "ID": 303,
+   "gen": 3,
+   "name": "mawile",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11.5
+  },
+  {
+   "ID": 304,
+   "gen": 3,
+   "name": "aron",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 60
+  },
+  {
+   "ID": 305,
+   "gen": 3,
+   "name": "lairon",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 120
+  },
+  {
+   "ID": 306,
+   "gen": 3,
+   "name": "aggron",
+   "type": "steel",
+   "stage": "second",
+   "group": "none",
+   "height": 2.1,
+   "weight": 360
+  },
+  {
+   "ID": 307,
+   "gen": 3,
+   "name": "meditite",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11.2
+  },
+  {
+   "ID": 308,
+   "gen": 3,
+   "name": "medicham",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 31.5
+  },
+  {
+   "ID": 309,
+   "gen": 3,
+   "name": "electrike",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 15.2
+  },
+  {
+   "ID": 310,
+   "gen": 3,
+   "name": "manectric",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 40.2
+  },
+  {
+   "ID": 311,
+   "gen": 3,
+   "name": "plusle",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.2
+  },
+  {
+   "ID": 312,
+   "gen": 3,
+   "name": "minun",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.2
+  },
+  {
+   "ID": 313,
+   "gen": 3,
+   "name": "volbeat",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 17.7
+  },
+  {
+   "ID": 314,
+   "gen": 3,
+   "name": "illumise",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 17.7
+  },
+  {
+   "ID": 315,
+   "gen": 3,
+   "name": "roselia",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2
+  },
+  {
+   "ID": 316,
+   "gen": 3,
+   "name": "gulpin",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 10.3
+  },
+  {
+   "ID": 317,
+   "gen": 3,
+   "name": "swalot",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 80
+  },
+  {
+   "ID": 318,
+   "gen": 3,
+   "name": "carvanha",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 20.8
+  },
+  {
+   "ID": 319,
+   "gen": 3,
+   "name": "sharpedo",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 88.8
+  },
+  {
+   "ID": 320,
+   "gen": 3,
+   "name": "wailmer",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 130
+  },
+  {
+   "ID": 321,
+   "gen": 3,
+   "name": "wailord",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 14.5,
+   "weight": 398
+  },
+  {
+   "ID": 322,
+   "gen": 3,
+   "name": "numel",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 24
+  },
+  {
+   "ID": 323,
+   "gen": 3,
+   "name": "camerupt",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 220
+  },
+  {
+   "ID": 324,
+   "gen": 3,
+   "name": "torkoal",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 80.4
+  },
+  {
+   "ID": 325,
+   "gen": 3,
+   "name": "spoink",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 30.6
+  },
+  {
+   "ID": 326,
+   "gen": 3,
+   "name": "grumpig",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 71.5
+  },
+  {
+   "ID": 327,
+   "gen": 3,
+   "name": "spinda",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 5
+  },
+  {
+   "ID": 328,
+   "gen": 3,
+   "name": "trapinch",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 15
+  },
+  {
+   "ID": 329,
+   "gen": 3,
+   "name": "vibrava",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 15.3
+  },
+  {
+   "ID": 330,
+   "gen": 3,
+   "name": "flygon",
+   "type": "ground",
+   "stage": "second",
+   "group": "none",
+   "height": 2,
+   "weight": 82
+  },
+  {
+   "ID": 331,
+   "gen": 3,
+   "name": "cacnea",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 51.3
+  },
+  {
+   "ID": 332,
+   "gen": 3,
+   "name": "cacturne",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 77.4
+  },
+  {
+   "ID": 333,
+   "gen": 3,
+   "name": "swablu",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 1.2
+  },
+  {
+   "ID": 334,
+   "gen": 3,
+   "name": "altaria",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 20.6
+  },
+  {
+   "ID": 335,
+   "gen": 3,
+   "name": "zangoose",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.3,
+   "weight": 40.3
+  },
+  {
+   "ID": 336,
+   "gen": 3,
+   "name": "seviper",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.7,
+   "weight": 52.5
+  },
+  {
+   "ID": 337,
+   "gen": 3,
+   "name": "lunatone",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 168
+  },
+  {
+   "ID": 338,
+   "gen": 3,
+   "name": "solrock",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 154
+  },
+  {
+   "ID": 339,
+   "gen": 3,
+   "name": "barboach",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 1.9
+  },
+  {
+   "ID": 340,
+   "gen": 3,
+   "name": "whiscash",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 23.6
+  },
+  {
+   "ID": 341,
+   "gen": 3,
+   "name": "corphish",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11.5
+  },
+  {
+   "ID": 342,
+   "gen": 3,
+   "name": "crawdaunt",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 32.8
+  },
+  {
+   "ID": 343,
+   "gen": 3,
+   "name": "baltoy",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 21.5
+  },
+  {
+   "ID": 344,
+   "gen": 3,
+   "name": "claydol",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 108
+  },
+  {
+   "ID": 345,
+   "gen": 3,
+   "name": "lileep",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 1,
+   "weight": 23.8
+  },
+  {
+   "ID": 346,
+   "gen": 3,
+   "name": "cradily",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.5,
+   "weight": 60.4
+  },
+  {
+   "ID": 347,
+   "gen": 3,
+   "name": "anorith",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.7,
+   "weight": 12.5
+  },
+  {
+   "ID": 348,
+   "gen": 3,
+   "name": "armaldo",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.5,
+   "weight": 68.2
+  },
+  {
+   "ID": 349,
+   "gen": 3,
+   "name": "feebas",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7.4
+  },
+  {
+   "ID": 350,
+   "gen": 3,
+   "name": "milotic",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 6.2,
+   "weight": 162
+  },
+  {
+   "ID": 351,
+   "gen": 3,
+   "name": "castform",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 0.8
+  },
+  {
+   "ID": 352,
+   "gen": 3,
+   "name": "kecleon",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 22
+  },
+  {
+   "ID": 353,
+   "gen": 3,
+   "name": "shuppet",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 2.3
+  },
+  {
+   "ID": 354,
+   "gen": 3,
+   "name": "banette",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 12.5
+  },
+  {
+   "ID": 355,
+   "gen": 3,
+   "name": "duskull",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 15
+  },
+  {
+   "ID": 356,
+   "gen": 3,
+   "name": "dusclops",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 30.6
+  },
+  {
+   "ID": 357,
+   "gen": 3,
+   "name": "tropius",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 100
+  },
+  {
+   "ID": 358,
+   "gen": 3,
+   "name": "chimecho",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 1
+  },
+  {
+   "ID": 359,
+   "gen": 3,
+   "name": "absol",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 47
+  },
+  {
+   "ID": 360,
+   "gen": 3,
+   "name": "wynaut",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.6,
+   "weight": 14
+  },
+  {
+   "ID": 361,
+   "gen": 3,
+   "name": "snorunt",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 16.8
+  },
+  {
+   "ID": 362,
+   "gen": 3,
+   "name": "glalie",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 256.5
+  },
+  {
+   "ID": 363,
+   "gen": 3,
+   "name": "spheal",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 39.5
+  },
+  {
+   "ID": 364,
+   "gen": 3,
+   "name": "sealeo",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 87.6
+  },
+  {
+   "ID": 365,
+   "gen": 3,
+   "name": "walrein",
+   "type": "ice",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 150.6
+  },
+  {
+   "ID": 366,
+   "gen": 3,
+   "name": "clamperl",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 52.5
+  },
+  {
+   "ID": 367,
+   "gen": 3,
+   "name": "huntail",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 27
+  },
+  {
+   "ID": 368,
+   "gen": 3,
+   "name": "gorebyss",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 22.6
+  },
+  {
+   "ID": 369,
+   "gen": 3,
+   "name": "relicanth",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 23.4
+  },
+  {
+   "ID": 370,
+   "gen": 3,
+   "name": "luvdisc",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8.7
+  },
+  {
+   "ID": 371,
+   "gen": 3,
+   "name": "bagon",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 42.1
+  },
+  {
+   "ID": 372,
+   "gen": 3,
+   "name": "shelgon",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 110.5
+  },
+  {
+   "ID": 373,
+   "gen": 3,
+   "name": "salamence",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 1.5,
+   "weight": 102.6
+  },
+  {
+   "ID": 374,
+   "gen": 3,
+   "name": "beldum",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 95.2
+  },
+  {
+   "ID": 375,
+   "gen": 3,
+   "name": "metang",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 202.5
+  },
+  {
+   "ID": 376,
+   "gen": 3,
+   "name": "metagross",
+   "type": "steel",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 1.6,
+   "weight": 550
+  },
+  {
+   "ID": 377,
+   "gen": 3,
+   "name": "regirock",
+   "type": "rock",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.7,
+   "weight": 230
+  },
+  {
+   "ID": 378,
+   "gen": 3,
+   "name": "regice",
+   "type": "ice",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.8,
+   "weight": 175
+  },
+  {
+   "ID": 379,
+   "gen": 3,
+   "name": "registeel",
+   "type": "steel",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.9,
+   "weight": 205
+  },
+  {
+   "ID": 380,
+   "gen": 3,
+   "name": "latias",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.4,
+   "weight": 40
+  },
+  {
+   "ID": 381,
+   "gen": 3,
+   "name": "latios",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2,
+   "weight": 60
+  },
+  {
+   "ID": 382,
+   "gen": 3,
+   "name": "kyogre",
+   "type": "water",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 4.5,
+   "weight": 352
+  },
+  {
+   "ID": 383,
+   "gen": 3,
+   "name": "groudon",
+   "type": "ground",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3.5,
+   "weight": 950
+  },
+  {
+   "ID": 384,
+   "gen": 3,
+   "name": "rayquaza",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 7,
+   "weight": 206.5
+  },
+  {
+   "ID": 385,
+   "gen": 3,
+   "name": "jirachi",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.1
+  },
+  {
+   "ID": 386,
+   "gen": 3,
+   "name": "deoxys",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.7,
+   "weight": 60.8
+  },
+  {
+   "ID": 387,
+   "gen": 4,
+   "name": "turtwig",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 10.2
+  },
+  {
+   "ID": 388,
+   "gen": 4,
+   "name": "grotle",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 1.1,
+   "weight": 97
+  },
+  {
+   "ID": 389,
+   "gen": 4,
+   "name": "torterra",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 2.2,
+   "weight": 310
+  },
+  {
+   "ID": 390,
+   "gen": 4,
+   "name": "chimchar",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 6.2
+  },
+  {
+   "ID": 391,
+   "gen": 4,
+   "name": "monferno",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.9,
+   "weight": 22
+  },
+  {
+   "ID": 392,
+   "gen": 4,
+   "name": "infernape",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.2,
+   "weight": 55
+  },
+  {
+   "ID": 393,
+   "gen": 4,
+   "name": "piplup",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 5.2
+  },
+  {
+   "ID": 394,
+   "gen": 4,
+   "name": "prinplup",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.8,
+   "weight": 23
+  },
+  {
+   "ID": 395,
+   "gen": 4,
+   "name": "empoleon",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.7,
+   "weight": 84.5
+  },
+  {
+   "ID": 396,
+   "gen": 4,
+   "name": "starly",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2
+  },
+  {
+   "ID": 397,
+   "gen": 4,
+   "name": "staravia",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 15.5
+  },
+  {
+   "ID": 398,
+   "gen": 4,
+   "name": "staraptor",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 24.9
+  },
+  {
+   "ID": 399,
+   "gen": 4,
+   "name": "bidoof",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 20
+  },
+  {
+   "ID": 400,
+   "gen": 4,
+   "name": "bibarel",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 31.5
+  },
+  {
+   "ID": 401,
+   "gen": 4,
+   "name": "kricketot",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.2
+  },
+  {
+   "ID": 402,
+   "gen": 4,
+   "name": "kricketune",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 25.5
+  },
+  {
+   "ID": 403,
+   "gen": 4,
+   "name": "shinx",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9.5
+  },
+  {
+   "ID": 404,
+   "gen": 4,
+   "name": "luxio",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 30.5
+  },
+  {
+   "ID": 405,
+   "gen": 4,
+   "name": "luxray",
+   "type": "electric",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 42
+  },
+  {
+   "ID": 406,
+   "gen": 4,
+   "name": "budew",
+   "type": "grass",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.2,
+   "weight": 1.2
+  },
+  {
+   "ID": 407,
+   "gen": 4,
+   "name": "roserade",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 0.9,
+   "weight": 14.5
+  },
+  {
+   "ID": 408,
+   "gen": 4,
+   "name": "cranidos",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.9,
+   "weight": 31.5
+  },
+  {
+   "ID": 409,
+   "gen": 4,
+   "name": "rampardos",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.6,
+   "weight": 102.5
+  },
+  {
+   "ID": 410,
+   "gen": 4,
+   "name": "shieldon",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.5,
+   "weight": 57
+  },
+  {
+   "ID": 411,
+   "gen": 4,
+   "name": "bastiodon",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.3,
+   "weight": 149.5
+  },
+  {
+   "ID": 412,
+   "gen": 4,
+   "name": "burmy",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 3.4
+  },
+  {
+   "ID": 413,
+   "gen": 4,
+   "name": "wormadam",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 6.5
+  },
+  {
+   "ID": 414,
+   "gen": 4,
+   "name": "mothim",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 23.3
+  },
+  {
+   "ID": 415,
+   "gen": 4,
+   "name": "combee",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 5.5
+  },
+  {
+   "ID": 416,
+   "gen": 4,
+   "name": "vespiquen",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 38.5
+  },
+  {
+   "ID": 417,
+   "gen": 4,
+   "name": "pachirisu",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.9
+  },
+  {
+   "ID": 418,
+   "gen": 4,
+   "name": "buizel",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 29.5
+  },
+  {
+   "ID": 419,
+   "gen": 4,
+   "name": "floatzel",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 33.5
+  },
+  {
+   "ID": 420,
+   "gen": 4,
+   "name": "cherubi",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.3
+  },
+  {
+   "ID": 421,
+   "gen": 4,
+   "name": "cherrim",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9.3
+  },
+  {
+   "ID": 422,
+   "gen": 4,
+   "name": "shellos",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 6.3
+  },
+  {
+   "ID": 423,
+   "gen": 4,
+   "name": "gastrodon",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 29.9
+  },
+  {
+   "ID": 424,
+   "gen": 4,
+   "name": "ambipom",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 20.3
+  },
+  {
+   "ID": 425,
+   "gen": 4,
+   "name": "drifloon",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 1.2
+  },
+  {
+   "ID": 426,
+   "gen": 4,
+   "name": "drifblim",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 15
+  },
+  {
+   "ID": 427,
+   "gen": 4,
+   "name": "buneary",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.5
+  },
+  {
+   "ID": 428,
+   "gen": 4,
+   "name": "lopunny",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 33.3
+  },
+  {
+   "ID": 429,
+   "gen": 4,
+   "name": "mismagius",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 4.4
+  },
+  {
+   "ID": 430,
+   "gen": 4,
+   "name": "honchkrow",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 27.3
+  },
+  {
+   "ID": 431,
+   "gen": 4,
+   "name": "glameow",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 3.9
+  },
+  {
+   "ID": 432,
+   "gen": 4,
+   "name": "purugly",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 43.8
+  },
+  {
+   "ID": 433,
+   "gen": 4,
+   "name": "chingling",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.2,
+   "weight": 0.6
+  },
+  {
+   "ID": 434,
+   "gen": 4,
+   "name": "stunky",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 19.2
+  },
+  {
+   "ID": 435,
+   "gen": 4,
+   "name": "skuntank",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 38
+  },
+  {
+   "ID": 436,
+   "gen": 4,
+   "name": "bronzor",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 60.5
+  },
+  {
+   "ID": 437,
+   "gen": 4,
+   "name": "bronzong",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 187
+  },
+  {
+   "ID": 438,
+   "gen": 4,
+   "name": "bonsly",
+   "type": "rock",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.5,
+   "weight": 15
+  },
+  {
+   "ID": 439,
+   "gen": 4,
+   "name": "mime-jr",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.6,
+   "weight": 13
+  },
+  {
+   "ID": 440,
+   "gen": 4,
+   "name": "happiny",
+   "type": "normal",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.6,
+   "weight": 24.4
+  },
+  {
+   "ID": 441,
+   "gen": 4,
+   "name": "chatot",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 1.9
+  },
+  {
+   "ID": 442,
+   "gen": 4,
+   "name": "spiritomb",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 108
+  },
+  {
+   "ID": 443,
+   "gen": 4,
+   "name": "gible",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 20.5
+  },
+  {
+   "ID": 444,
+   "gen": 4,
+   "name": "gabite",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 56
+  },
+  {
+   "ID": 445,
+   "gen": 4,
+   "name": "garchomp",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 1.9,
+   "weight": 95
+  },
+  {
+   "ID": 446,
+   "gen": 4,
+   "name": "munchlax",
+   "type": "normal",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.6,
+   "weight": 105
+  },
+  {
+   "ID": 447,
+   "gen": 4,
+   "name": "riolu",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.7,
+   "weight": 20.2
+  },
+  {
+   "ID": 448,
+   "gen": 4,
+   "name": "lucario",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 54
+  },
+  {
+   "ID": 449,
+   "gen": 4,
+   "name": "hippopotas",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 49.5
+  },
+  {
+   "ID": 450,
+   "gen": 4,
+   "name": "hippowdon",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 300
+  },
+  {
+   "ID": 451,
+   "gen": 4,
+   "name": "skorupi",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 12
+  },
+  {
+   "ID": 452,
+   "gen": 4,
+   "name": "drapion",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 61.5
+  },
+  {
+   "ID": 453,
+   "gen": 4,
+   "name": "croagunk",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 23
+  },
+  {
+   "ID": 454,
+   "gen": 4,
+   "name": "toxicroak",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 44.4
+  },
+  {
+   "ID": 455,
+   "gen": 4,
+   "name": "carnivine",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 27
+  },
+  {
+   "ID": 456,
+   "gen": 4,
+   "name": "finneon",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 7
+  },
+  {
+   "ID": 457,
+   "gen": 4,
+   "name": "lumineon",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 24
+  },
+  {
+   "ID": 458,
+   "gen": 4,
+   "name": "mantyke",
+   "type": "water",
+   "stage": "basic",
+   "group": "baby",
+   "height": 1,
+   "weight": 65
+  },
+  {
+   "ID": 459,
+   "gen": 4,
+   "name": "snover",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 50.5
+  },
+  {
+   "ID": 460,
+   "gen": 4,
+   "name": "abomasnow",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 2.2,
+   "weight": 135.5
+  },
+  {
+   "ID": 461,
+   "gen": 4,
+   "name": "weavile",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 34
+  },
+  {
+   "ID": 462,
+   "gen": 4,
+   "name": "magnezone",
+   "type": "electric",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 180
+  },
+  {
+   "ID": 463,
+   "gen": 4,
+   "name": "lickilicky",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 140
+  },
+  {
+   "ID": 464,
+   "gen": 4,
+   "name": "rhyperior",
+   "type": "ground",
+   "stage": "second",
+   "group": "none",
+   "height": 2.4,
+   "weight": 282.8
+  },
+  {
+   "ID": 465,
+   "gen": 4,
+   "name": "tangrowth",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 128.6
+  },
+  {
+   "ID": 466,
+   "gen": 4,
+   "name": "electivire",
+   "type": "electric",
+   "stage": "second",
+   "group": "none",
+   "height": 1.8,
+   "weight": 138.6
+  },
+  {
+   "ID": 467,
+   "gen": 4,
+   "name": "magmortar",
+   "type": "fire",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 68
+  },
+  {
+   "ID": 468,
+   "gen": 4,
+   "name": "togekiss",
+   "type": "fairy",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 38
+  },
+  {
+   "ID": 469,
+   "gen": 4,
+   "name": "yanmega",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 51.5
+  },
+  {
+   "ID": 470,
+   "gen": 4,
+   "name": "leafeon",
+   "type": "grass",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 1,
+   "weight": 25.5
+  },
+  {
+   "ID": 471,
+   "gen": 4,
+   "name": "glaceon",
+   "type": "ice",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 0.8,
+   "weight": 25.9
+  },
+  {
+   "ID": 472,
+   "gen": 4,
+   "name": "gliscor",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 42.5
+  },
+  {
+   "ID": 473,
+   "gen": 4,
+   "name": "mamoswine",
+   "type": "ice",
+   "stage": "second",
+   "group": "none",
+   "height": 2.5,
+   "weight": 291
+  },
+  {
+   "ID": 474,
+   "gen": 4,
+   "name": "porygon-z",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 0.9,
+   "weight": 34
+  },
+  {
+   "ID": 475,
+   "gen": 4,
+   "name": "gallade",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 52
+  },
+  {
+   "ID": 476,
+   "gen": 4,
+   "name": "probopass",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 340
+  },
+  {
+   "ID": 477,
+   "gen": 4,
+   "name": "dusknoir",
+   "type": "ghost",
+   "stage": "second",
+   "group": "none",
+   "height": 2.2,
+   "weight": 106.6
+  },
+  {
+   "ID": 478,
+   "gen": 4,
+   "name": "froslass",
+   "type": "ice",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 26.6
+  },
+  {
+   "ID": 479,
+   "gen": 4,
+   "name": "rotom",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 0.3
+  },
+  {
+   "ID": 480,
+   "gen": 4,
+   "name": "uxie",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 0.3,
+   "weight": 0.3
+  },
+  {
+   "ID": 481,
+   "gen": 4,
+   "name": "mesprit",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 0.3,
+   "weight": 0.3
+  },
+  {
+   "ID": 482,
+   "gen": 4,
+   "name": "azelf",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 0.3,
+   "weight": 0.3
+  },
+  {
+   "ID": 483,
+   "gen": 4,
+   "name": "dialga",
+   "type": "steel",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 5.4,
+   "weight": 683
+  },
+  {
+   "ID": 484,
+   "gen": 4,
+   "name": "palkia",
+   "type": "water",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 4.2,
+   "weight": 336
+  },
+  {
+   "ID": 485,
+   "gen": 4,
+   "name": "heatran",
+   "type": "fire",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.7,
+   "weight": 430
+  },
+  {
+   "ID": 486,
+   "gen": 4,
+   "name": "regigigas",
+   "type": "normal",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3.7,
+   "weight": 420
+  },
+  {
+   "ID": 487,
+   "gen": 4,
+   "name": "giratina",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 4.5,
+   "weight": 750
+  },
+  {
+   "ID": 488,
+   "gen": 4,
+   "name": "cresselia",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.5,
+   "weight": 85.6
+  },
+  {
+   "ID": 489,
+   "gen": 4,
+   "name": "phione",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.1
+  },
+  {
+   "ID": 490,
+   "gen": 4,
+   "name": "manaphy",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.4
+  },
+  {
+   "ID": 491,
+   "gen": 4,
+   "name": "darkrai",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 50.5
+  },
+  {
+   "ID": 492,
+   "gen": 4,
+   "name": "shaymin",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 2.1
+  },
+  {
+   "ID": 493,
+   "gen": 4,
+   "name": "arceus",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 3.2,
+   "weight": 320
+  },
+  {
+   "ID": 494,
+   "gen": 5,
+   "name": "victini",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4
+  },
+  {
+   "ID": 495,
+   "gen": 5,
+   "name": "snivy",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 8.1
+  },
+  {
+   "ID": 496,
+   "gen": 5,
+   "name": "servine",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.8,
+   "weight": 16
+  },
+  {
+   "ID": 497,
+   "gen": 5,
+   "name": "serperior",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 3.3,
+   "weight": 63
+  },
+  {
+   "ID": 498,
+   "gen": 5,
+   "name": "tepig",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 9.9
+  },
+  {
+   "ID": 499,
+   "gen": 5,
+   "name": "pignite",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 1,
+   "weight": 55.5
+  },
+  {
+   "ID": 500,
+   "gen": 5,
+   "name": "emboar",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.6,
+   "weight": 150
+  },
+  {
+   "ID": 501,
+   "gen": 5,
+   "name": "oshawott",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.5,
+   "weight": 5.9
+  },
+  {
+   "ID": 502,
+   "gen": 5,
+   "name": "dewott",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.8,
+   "weight": 24.5
+  },
+  {
+   "ID": 503,
+   "gen": 5,
+   "name": "samurott",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.5,
+   "weight": 94.6
+  },
+  {
+   "ID": 504,
+   "gen": 5,
+   "name": "patrat",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 11.6
+  },
+  {
+   "ID": 505,
+   "gen": 5,
+   "name": "watchog",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 27
+  },
+  {
+   "ID": 506,
+   "gen": 5,
+   "name": "lillipup",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.1
+  },
+  {
+   "ID": 507,
+   "gen": 5,
+   "name": "herdier",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 14.7
+  },
+  {
+   "ID": 508,
+   "gen": 5,
+   "name": "stoutland",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 61
+  },
+  {
+   "ID": 509,
+   "gen": 5,
+   "name": "purrloin",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 10.1
+  },
+  {
+   "ID": 510,
+   "gen": 5,
+   "name": "liepard",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 37.5
+  },
+  {
+   "ID": 511,
+   "gen": 5,
+   "name": "pansage",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 10.5
+  },
+  {
+   "ID": 512,
+   "gen": 5,
+   "name": "simisage",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 30.5
+  },
+  {
+   "ID": 513,
+   "gen": 5,
+   "name": "pansear",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11
+  },
+  {
+   "ID": 514,
+   "gen": 5,
+   "name": "simisear",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 28
+  },
+  {
+   "ID": 515,
+   "gen": 5,
+   "name": "panpour",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 13.5
+  },
+  {
+   "ID": 516,
+   "gen": 5,
+   "name": "simipour",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 29
+  },
+  {
+   "ID": 517,
+   "gen": 5,
+   "name": "munna",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 23.3
+  },
+  {
+   "ID": 518,
+   "gen": 5,
+   "name": "musharna",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 60.5
+  },
+  {
+   "ID": 519,
+   "gen": 5,
+   "name": "pidove",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.1
+  },
+  {
+   "ID": 520,
+   "gen": 5,
+   "name": "tranquill",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 15
+  },
+  {
+   "ID": 521,
+   "gen": 5,
+   "name": "unfezant",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 29
+  },
+  {
+   "ID": 522,
+   "gen": 5,
+   "name": "blitzle",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 29.8
+  },
+  {
+   "ID": 523,
+   "gen": 5,
+   "name": "zebstrika",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 79.5
+  },
+  {
+   "ID": 524,
+   "gen": 5,
+   "name": "roggenrola",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 18
+  },
+  {
+   "ID": 525,
+   "gen": 5,
+   "name": "boldore",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 102
+  },
+  {
+   "ID": 526,
+   "gen": 5,
+   "name": "gigalith",
+   "type": "rock",
+   "stage": "second",
+   "group": "none",
+   "height": 1.7,
+   "weight": 260
+  },
+  {
+   "ID": 527,
+   "gen": 5,
+   "name": "woobat",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 2.1
+  },
+  {
+   "ID": 528,
+   "gen": 5,
+   "name": "swoobat",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 10.5
+  },
+  {
+   "ID": 529,
+   "gen": 5,
+   "name": "drilbur",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 8.5
+  },
+  {
+   "ID": 530,
+   "gen": 5,
+   "name": "excadrill",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 40.4
+  },
+  {
+   "ID": 531,
+   "gen": 5,
+   "name": "audino",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 31
+  },
+  {
+   "ID": 532,
+   "gen": 5,
+   "name": "timburr",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 12.5
+  },
+  {
+   "ID": 533,
+   "gen": 5,
+   "name": "gurdurr",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 40
+  },
+  {
+   "ID": 534,
+   "gen": 5,
+   "name": "conkeldurr",
+   "type": "fighting",
+   "stage": "second",
+   "group": "none",
+   "height": 1.4,
+   "weight": 87
+  },
+  {
+   "ID": 535,
+   "gen": 5,
+   "name": "tympole",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 4.5
+  },
+  {
+   "ID": 536,
+   "gen": 5,
+   "name": "palpitoad",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 17
+  },
+  {
+   "ID": 537,
+   "gen": 5,
+   "name": "seismitoad",
+   "type": "water",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 62
+  },
+  {
+   "ID": 538,
+   "gen": 5,
+   "name": "throh",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.3,
+   "weight": 55.5
+  },
+  {
+   "ID": 539,
+   "gen": 5,
+   "name": "sawk",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 51
+  },
+  {
+   "ID": 540,
+   "gen": 5,
+   "name": "sewaddle",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.5
+  },
+  {
+   "ID": 541,
+   "gen": 5,
+   "name": "swadloon",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 7.3
+  },
+  {
+   "ID": 542,
+   "gen": 5,
+   "name": "leavanny",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 20.5
+  },
+  {
+   "ID": 543,
+   "gen": 5,
+   "name": "venipede",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.3
+  },
+  {
+   "ID": 544,
+   "gen": 5,
+   "name": "whirlipede",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 58.5
+  },
+  {
+   "ID": 545,
+   "gen": 5,
+   "name": "scolipede",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 2.5,
+   "weight": 200.5
+  },
+  {
+   "ID": 546,
+   "gen": 5,
+   "name": "cottonee",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 0.6
+  },
+  {
+   "ID": 547,
+   "gen": 5,
+   "name": "whimsicott",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 6.6
+  },
+  {
+   "ID": 548,
+   "gen": 5,
+   "name": "petilil",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 6.6
+  },
+  {
+   "ID": 549,
+   "gen": 5,
+   "name": "lilligant",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 16.3
+  },
+  {
+   "ID": 550,
+   "gen": 5,
+   "name": "basculin",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 18
+  },
+  {
+   "ID": 551,
+   "gen": 5,
+   "name": "sandile",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 15.2
+  },
+  {
+   "ID": 552,
+   "gen": 5,
+   "name": "krokorok",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 33.4
+  },
+  {
+   "ID": 553,
+   "gen": 5,
+   "name": "krookodile",
+   "type": "ground",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 96.3
+  },
+  {
+   "ID": 554,
+   "gen": 5,
+   "name": "darumaka",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 37.5
+  },
+  {
+   "ID": 555,
+   "gen": 5,
+   "name": "darmanitan",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.3,
+   "weight": 92.9
+  },
+  {
+   "ID": 556,
+   "gen": 5,
+   "name": "maractus",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 28
+  },
+  {
+   "ID": 557,
+   "gen": 5,
+   "name": "dwebble",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 14.5
+  },
+  {
+   "ID": 558,
+   "gen": 5,
+   "name": "crustle",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 200
+  },
+  {
+   "ID": 559,
+   "gen": 5,
+   "name": "scraggy",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 11.8
+  },
+  {
+   "ID": 560,
+   "gen": 5,
+   "name": "scrafty",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 30
+  },
+  {
+   "ID": 561,
+   "gen": 5,
+   "name": "sigilyph",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 14
+  },
+  {
+   "ID": 562,
+   "gen": 5,
+   "name": "yamask",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 1.5
+  },
+  {
+   "ID": 563,
+   "gen": 5,
+   "name": "cofagrigus",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 76.5
+  },
+  {
+   "ID": 564,
+   "gen": 5,
+   "name": "tirtouga",
+   "type": "water",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.7,
+   "weight": 16.5
+  },
+  {
+   "ID": 565,
+   "gen": 5,
+   "name": "carracosta",
+   "type": "water",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.2,
+   "weight": 81
+  },
+  {
+   "ID": 566,
+   "gen": 5,
+   "name": "archen",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.5,
+   "weight": 9.5
+  },
+  {
+   "ID": 567,
+   "gen": 5,
+   "name": "archeops",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 1.4,
+   "weight": 32
+  },
+  {
+   "ID": 568,
+   "gen": 5,
+   "name": "trubbish",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 31
+  },
+  {
+   "ID": 569,
+   "gen": 5,
+   "name": "garbodor",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 107.3
+  },
+  {
+   "ID": 570,
+   "gen": 5,
+   "name": "zorua",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 12.5
+  },
+  {
+   "ID": 571,
+   "gen": 5,
+   "name": "zoroark",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 81.1
+  },
+  {
+   "ID": 572,
+   "gen": 5,
+   "name": "minccino",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.8
+  },
+  {
+   "ID": 573,
+   "gen": 5,
+   "name": "cinccino",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 7.5
+  },
+  {
+   "ID": 574,
+   "gen": 5,
+   "name": "gothita",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.8
+  },
+  {
+   "ID": 575,
+   "gen": 5,
+   "name": "gothorita",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 18
+  },
+  {
+   "ID": 576,
+   "gen": 5,
+   "name": "gothitelle",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 44
+  },
+  {
+   "ID": 577,
+   "gen": 5,
+   "name": "solosis",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1
+  },
+  {
+   "ID": 578,
+   "gen": 5,
+   "name": "duosion",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8
+  },
+  {
+   "ID": 579,
+   "gen": 5,
+   "name": "reuniclus",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 1,
+   "weight": 20.1
+  },
+  {
+   "ID": 580,
+   "gen": 5,
+   "name": "ducklett",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5.5
+  },
+  {
+   "ID": 581,
+   "gen": 5,
+   "name": "swanna",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 24.2
+  },
+  {
+   "ID": 582,
+   "gen": 5,
+   "name": "vanillite",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.7
+  },
+  {
+   "ID": 583,
+   "gen": 5,
+   "name": "vanillish",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 41
+  },
+  {
+   "ID": 584,
+   "gen": 5,
+   "name": "vanilluxe",
+   "type": "ice",
+   "stage": "second",
+   "group": "none",
+   "height": 1.3,
+   "weight": 57.5
+  },
+  {
+   "ID": 585,
+   "gen": 5,
+   "name": "deerling",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 19.5
+  },
+  {
+   "ID": 586,
+   "gen": 5,
+   "name": "sawsbuck",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.9,
+   "weight": 92.5
+  },
+  {
+   "ID": 587,
+   "gen": 5,
+   "name": "emolga",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5
+  },
+  {
+   "ID": 588,
+   "gen": 5,
+   "name": "karrablast",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 5.9
+  },
+  {
+   "ID": 589,
+   "gen": 5,
+   "name": "escavalier",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 33
+  },
+  {
+   "ID": 590,
+   "gen": 5,
+   "name": "foongus",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 1
+  },
+  {
+   "ID": 591,
+   "gen": 5,
+   "name": "amoonguss",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 10.5
+  },
+  {
+   "ID": 592,
+   "gen": 5,
+   "name": "frillish",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 33
+  },
+  {
+   "ID": 593,
+   "gen": 5,
+   "name": "jellicent",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 2.2,
+   "weight": 135
+  },
+  {
+   "ID": 594,
+   "gen": 5,
+   "name": "alomomola",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 31.6
+  },
+  {
+   "ID": 595,
+   "gen": 5,
+   "name": "joltik",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.1,
+   "weight": 0.6
+  },
+  {
+   "ID": 596,
+   "gen": 5,
+   "name": "galvantula",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 14.3
+  },
+  {
+   "ID": 597,
+   "gen": 5,
+   "name": "ferroseed",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 18.8
+  },
+  {
+   "ID": 598,
+   "gen": 5,
+   "name": "ferrothorn",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 110
+  },
+  {
+   "ID": 599,
+   "gen": 5,
+   "name": "klink",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 21
+  },
+  {
+   "ID": 600,
+   "gen": 5,
+   "name": "klang",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 51
+  },
+  {
+   "ID": 601,
+   "gen": 5,
+   "name": "klinklang",
+   "type": "steel",
+   "stage": "second",
+   "group": "none",
+   "height": 0.6,
+   "weight": 81
+  },
+  {
+   "ID": 602,
+   "gen": 5,
+   "name": "tynamo",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.3
+  },
+  {
+   "ID": 603,
+   "gen": 5,
+   "name": "eelektrik",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 22
+  },
+  {
+   "ID": 604,
+   "gen": 5,
+   "name": "eelektross",
+   "type": "electric",
+   "stage": "second",
+   "group": "none",
+   "height": 2.1,
+   "weight": 80.5
+  },
+  {
+   "ID": 605,
+   "gen": 5,
+   "name": "elgyem",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9
+  },
+  {
+   "ID": 606,
+   "gen": 5,
+   "name": "beheeyem",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 34.5
+  },
+  {
+   "ID": 607,
+   "gen": 5,
+   "name": "litwick",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.1
+  },
+  {
+   "ID": 608,
+   "gen": 5,
+   "name": "lampent",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 13
+  },
+  {
+   "ID": 609,
+   "gen": 5,
+   "name": "chandelure",
+   "type": "ghost",
+   "stage": "second",
+   "group": "none",
+   "height": 1,
+   "weight": 34.3
+  },
+  {
+   "ID": 610,
+   "gen": 5,
+   "name": "axew",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 18
+  },
+  {
+   "ID": 611,
+   "gen": 5,
+   "name": "fraxure",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 36
+  },
+  {
+   "ID": 612,
+   "gen": 5,
+   "name": "haxorus",
+   "type": "dragon",
+   "stage": "second",
+   "group": "none",
+   "height": 1.8,
+   "weight": 105.5
+  },
+  {
+   "ID": 613,
+   "gen": 5,
+   "name": "cubchoo",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 8.5
+  },
+  {
+   "ID": 614,
+   "gen": 5,
+   "name": "beartic",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 2.6,
+   "weight": 260
+  },
+  {
+   "ID": 615,
+   "gen": 5,
+   "name": "cryogonal",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 148
+  },
+  {
+   "ID": 616,
+   "gen": 5,
+   "name": "shelmet",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 7.7
+  },
+  {
+   "ID": 617,
+   "gen": 5,
+   "name": "accelgor",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 25.3
+  },
+  {
+   "ID": 618,
+   "gen": 5,
+   "name": "stunfisk",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 11
+  },
+  {
+   "ID": 619,
+   "gen": 5,
+   "name": "mienfoo",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 20
+  },
+  {
+   "ID": 620,
+   "gen": 5,
+   "name": "mienshao",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 35.5
+  },
+  {
+   "ID": 621,
+   "gen": 5,
+   "name": "druddigon",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.6,
+   "weight": 139
+  },
+  {
+   "ID": 622,
+   "gen": 5,
+   "name": "golett",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 92
+  },
+  {
+   "ID": 623,
+   "gen": 5,
+   "name": "golurk",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 2.8,
+   "weight": 330
+  },
+  {
+   "ID": 624,
+   "gen": 5,
+   "name": "pawniard",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 10.2
+  },
+  {
+   "ID": 625,
+   "gen": 5,
+   "name": "bisharp",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 70
+  },
+  {
+   "ID": 626,
+   "gen": 5,
+   "name": "bouffalant",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.6,
+   "weight": 94.6
+  },
+  {
+   "ID": 627,
+   "gen": 5,
+   "name": "rufflet",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 10.5
+  },
+  {
+   "ID": 628,
+   "gen": 5,
+   "name": "braviary",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 41
+  },
+  {
+   "ID": 629,
+   "gen": 5,
+   "name": "vullaby",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9
+  },
+  {
+   "ID": 630,
+   "gen": 5,
+   "name": "mandibuzz",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 39.5
+  },
+  {
+   "ID": 631,
+   "gen": 5,
+   "name": "heatmor",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 58
+  },
+  {
+   "ID": 632,
+   "gen": 5,
+   "name": "durant",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 33
+  },
+  {
+   "ID": 633,
+   "gen": 5,
+   "name": "deino",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 17.3
+  },
+  {
+   "ID": 634,
+   "gen": 5,
+   "name": "zweilous",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 50
+  },
+  {
+   "ID": 635,
+   "gen": 5,
+   "name": "hydreigon",
+   "type": "dark",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 1.8,
+   "weight": 160
+  },
+  {
+   "ID": 636,
+   "gen": 5,
+   "name": "larvesta",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 28.8
+  },
+  {
+   "ID": 637,
+   "gen": 5,
+   "name": "volcarona",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 46
+  },
+  {
+   "ID": 638,
+   "gen": 5,
+   "name": "cobalion",
+   "type": "steel",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.1,
+   "weight": 250
+  },
+  {
+   "ID": 639,
+   "gen": 5,
+   "name": "terrakion",
+   "type": "rock",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.9,
+   "weight": 260
+  },
+  {
+   "ID": 640,
+   "gen": 5,
+   "name": "virizion",
+   "type": "grass",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2,
+   "weight": 200
+  },
+  {
+   "ID": 641,
+   "gen": 5,
+   "name": "tornadus",
+   "type": "flying",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.5,
+   "weight": 63
+  },
+  {
+   "ID": 642,
+   "gen": 5,
+   "name": "thundurus",
+   "type": "electric",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.5,
+   "weight": 61
+  },
+  {
+   "ID": 643,
+   "gen": 5,
+   "name": "reshiram",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3.2,
+   "weight": 330
+  },
+  {
+   "ID": 644,
+   "gen": 5,
+   "name": "zekrom",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.9,
+   "weight": 345
+  },
+  {
+   "ID": 645,
+   "gen": 5,
+   "name": "landorus",
+   "type": "ground",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.5,
+   "weight": 68
+  },
+  {
+   "ID": 646,
+   "gen": 5,
+   "name": "kyurem",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3,
+   "weight": 325
+  },
+  {
+   "ID": 647,
+   "gen": 5,
+   "name": "keldeo",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 48.5
+  },
+  {
+   "ID": 648,
+   "gen": 5,
+   "name": "meloetta",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 6.5
+  },
+  {
+   "ID": 649,
+   "gen": 5,
+   "name": "genesect",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 82.5
+  },
+  {
+   "ID": 650,
+   "gen": 6,
+   "name": "chespin",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 9
+  },
+  {
+   "ID": 651,
+   "gen": 6,
+   "name": "quilladin",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 29
+  },
+  {
+   "ID": 652,
+   "gen": 6,
+   "name": "chesnaught",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.6,
+   "weight": 90
+  },
+  {
+   "ID": 653,
+   "gen": 6,
+   "name": "fennekin",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 9.4
+  },
+  {
+   "ID": 654,
+   "gen": 6,
+   "name": "braixen",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 1,
+   "weight": 14.5
+  },
+  {
+   "ID": 655,
+   "gen": 6,
+   "name": "delphox",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.5,
+   "weight": 39
+  },
+  {
+   "ID": 656,
+   "gen": 6,
+   "name": "froakie",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.3,
+   "weight": 7
+  },
+  {
+   "ID": 657,
+   "gen": 6,
+   "name": "frogadier",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 10.9
+  },
+  {
+   "ID": 658,
+   "gen": 6,
+   "name": "greninja",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.5,
+   "weight": 40
+  },
+  {
+   "ID": 659,
+   "gen": 6,
+   "name": "bunnelby",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5
+  },
+  {
+   "ID": 660,
+   "gen": 6,
+   "name": "diggersby",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 42.4
+  },
+  {
+   "ID": 661,
+   "gen": 6,
+   "name": "fletchling",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.7
+  },
+  {
+   "ID": 662,
+   "gen": 6,
+   "name": "fletchinder",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 16
+  },
+  {
+   "ID": 663,
+   "gen": 6,
+   "name": "talonflame",
+   "type": "fire",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 24.5
+  },
+  {
+   "ID": 664,
+   "gen": 6,
+   "name": "scatterbug",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.5
+  },
+  {
+   "ID": 665,
+   "gen": 6,
+   "name": "spewpa",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 8.4
+  },
+  {
+   "ID": 666,
+   "gen": 6,
+   "name": "vivillon",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 17
+  },
+  {
+   "ID": 667,
+   "gen": 6,
+   "name": "litleo",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 13.5
+  },
+  {
+   "ID": 668,
+   "gen": 6,
+   "name": "pyroar",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 81.5
+  },
+  {
+   "ID": 669,
+   "gen": 6,
+   "name": "flabebe",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.1,
+   "weight": 0.1
+  },
+  {
+   "ID": 670,
+   "gen": 6,
+   "name": "floette",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.9
+  },
+  {
+   "ID": 671,
+   "gen": 6,
+   "name": "florges",
+   "type": "fairy",
+   "stage": "second",
+   "group": "none",
+   "height": 1.1,
+   "weight": 10
+  },
+  {
+   "ID": 672,
+   "gen": 6,
+   "name": "skiddo",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 31
+  },
+  {
+   "ID": 673,
+   "gen": 6,
+   "name": "gogoat",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 91
+  },
+  {
+   "ID": 674,
+   "gen": 6,
+   "name": "pancham",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8
+  },
+  {
+   "ID": 675,
+   "gen": 6,
+   "name": "pangoro",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 2.1,
+   "weight": 136
+  },
+  {
+   "ID": 676,
+   "gen": 6,
+   "name": "furfrou",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 28
+  },
+  {
+   "ID": 677,
+   "gen": 6,
+   "name": "espurr",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.5
+  },
+  {
+   "ID": 678,
+   "gen": 6,
+   "name": "meowstic",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8.5
+  },
+  {
+   "ID": 679,
+   "gen": 6,
+   "name": "honedge",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 2
+  },
+  {
+   "ID": 680,
+   "gen": 6,
+   "name": "doublade",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 4.5
+  },
+  {
+   "ID": 681,
+   "gen": 6,
+   "name": "aegislash",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 53
+  },
+  {
+   "ID": 682,
+   "gen": 6,
+   "name": "spritzee",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.5
+  },
+  {
+   "ID": 683,
+   "gen": 6,
+   "name": "aromatisse",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 15.5
+  },
+  {
+   "ID": 684,
+   "gen": 6,
+   "name": "swirlix",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.5
+  },
+  {
+   "ID": 685,
+   "gen": 6,
+   "name": "slurpuff",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 5
+  },
+  {
+   "ID": 686,
+   "gen": 6,
+   "name": "inkay",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.5
+  },
+  {
+   "ID": 687,
+   "gen": 6,
+   "name": "malamar",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 47
+  },
+  {
+   "ID": 688,
+   "gen": 6,
+   "name": "binacle",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 31
+  },
+  {
+   "ID": 689,
+   "gen": 6,
+   "name": "barbaracle",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 96
+  },
+  {
+   "ID": 690,
+   "gen": 6,
+   "name": "skrelp",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 7.3
+  },
+  {
+   "ID": 691,
+   "gen": 6,
+   "name": "dragalge",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 81.5
+  },
+  {
+   "ID": 692,
+   "gen": 6,
+   "name": "clauncher",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 8.3
+  },
+  {
+   "ID": 693,
+   "gen": 6,
+   "name": "clawitzer",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 35.3
+  },
+  {
+   "ID": 694,
+   "gen": 6,
+   "name": "helioptile",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 6
+  },
+  {
+   "ID": 695,
+   "gen": 6,
+   "name": "heliolisk",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 21
+  },
+  {
+   "ID": 696,
+   "gen": 6,
+   "name": "tyrunt",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 0.8,
+   "weight": 26
+  },
+  {
+   "ID": 697,
+   "gen": 6,
+   "name": "tyrantrum",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 2.5,
+   "weight": 270
+  },
+  {
+   "ID": 698,
+   "gen": 6,
+   "name": "amaura",
+   "type": "rock",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 1.3,
+   "weight": 25.2
+  },
+  {
+   "ID": 699,
+   "gen": 6,
+   "name": "aurorus",
+   "type": "rock",
+   "stage": "first",
+   "group": "fossil",
+   "height": 2.7,
+   "weight": 225
+  },
+  {
+   "ID": 700,
+   "gen": 6,
+   "name": "sylveon",
+   "type": "fairy",
+   "stage": "first",
+   "group": "eeveelution",
+   "height": 1,
+   "weight": 23.5
+  },
+  {
+   "ID": 701,
+   "gen": 6,
+   "name": "hawlucha",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 21.5
+  },
+  {
+   "ID": 702,
+   "gen": 6,
+   "name": "dedenne",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 2.2
+  },
+  {
+   "ID": 703,
+   "gen": 6,
+   "name": "carbink",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 5.7
+  },
+  {
+   "ID": 704,
+   "gen": 6,
+   "name": "goomy",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.8
+  },
+  {
+   "ID": 705,
+   "gen": 6,
+   "name": "sliggoo",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 17.5
+  },
+  {
+   "ID": 706,
+   "gen": 6,
+   "name": "goodra",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 2,
+   "weight": 150.5
+  },
+  {
+   "ID": 707,
+   "gen": 6,
+   "name": "klefki",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 3
+  },
+  {
+   "ID": 708,
+   "gen": 6,
+   "name": "phantump",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 7
+  },
+  {
+   "ID": 709,
+   "gen": 6,
+   "name": "trevenant",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 71
+  },
+  {
+   "ID": 710,
+   "gen": 6,
+   "name": "pumpkaboo",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5
+  },
+  {
+   "ID": 711,
+   "gen": 6,
+   "name": "gourgeist",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 12.5
+  },
+  {
+   "ID": 712,
+   "gen": 6,
+   "name": "bergmite",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 99.5
+  },
+  {
+   "ID": 713,
+   "gen": 6,
+   "name": "avalugg",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 505
+  },
+  {
+   "ID": 714,
+   "gen": 6,
+   "name": "noibat",
+   "type": "flying",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 8
+  },
+  {
+   "ID": 715,
+   "gen": 6,
+   "name": "noivern",
+   "type": "flying",
+   "stage": "first",
+   "group": "none",
+   "height": 1.5,
+   "weight": 85
+  },
+  {
+   "ID": 716,
+   "gen": 6,
+   "name": "xerneas",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 3,
+   "weight": 215
+  },
+  {
+   "ID": 717,
+   "gen": 6,
+   "name": "yveltal",
+   "type": "dark",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 5.8,
+   "weight": 203
+  },
+  {
+   "ID": 718,
+   "gen": 6,
+   "name": "zygarde",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 5,
+   "weight": 305
+  },
+  {
+   "ID": 719,
+   "gen": 6,
+   "name": "diancie",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 8.8
+  },
+  {
+   "ID": 720,
+   "gen": 6,
+   "name": "hoopa",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9
+  },
+  {
+   "ID": 721,
+   "gen": 6,
+   "name": "volcanion",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.7,
+   "weight": 195
+  },
+  {
+   "ID": 722,
+   "gen": 7,
+   "name": "rowlet",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.3,
+   "weight": 1.5
+  },
+  {
+   "ID": 723,
+   "gen": 7,
+   "name": "dartrix",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 16
+  },
+  {
+   "ID": 724,
+   "gen": 7,
+   "name": "decidueye",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.6,
+   "weight": 36.6
+  },
+  {
+   "ID": 725,
+   "gen": 7,
+   "name": "litten",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 4.3
+  },
+  {
+   "ID": 726,
+   "gen": 7,
+   "name": "torracat",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 25
+  },
+  {
+   "ID": 727,
+   "gen": 7,
+   "name": "incineroar",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.8,
+   "weight": 83
+  },
+  {
+   "ID": 728,
+   "gen": 7,
+   "name": "popplio",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.4,
+   "weight": 7.5
+  },
+  {
+   "ID": 729,
+   "gen": 7,
+   "name": "brionne",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 17.5
+  },
+  {
+   "ID": 730,
+   "gen": 7,
+   "name": "primarina",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.8,
+   "weight": 44
+  },
+  {
+   "ID": 731,
+   "gen": 7,
+   "name": "pikipek",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.2
+  },
+  {
+   "ID": 732,
+   "gen": 7,
+   "name": "trumbeak",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 14.8
+  },
+  {
+   "ID": 733,
+   "gen": 7,
+   "name": "toucannon",
+   "type": "normal",
+   "stage": "second",
+   "group": "none",
+   "height": 1.1,
+   "weight": 26
+  },
+  {
+   "ID": 734,
+   "gen": 7,
+   "name": "yungoos",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 6
+  },
+  {
+   "ID": 735,
+   "gen": 7,
+   "name": "gumshoos",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 14.2
+  },
+  {
+   "ID": 736,
+   "gen": 7,
+   "name": "grubbin",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 4.4
+  },
+  {
+   "ID": 737,
+   "gen": 7,
+   "name": "charjabug",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 10.5
+  },
+  {
+   "ID": 738,
+   "gen": 7,
+   "name": "vikavolt",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 45
+  },
+  {
+   "ID": 739,
+   "gen": 7,
+   "name": "crabrawler",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 7
+  },
+  {
+   "ID": 740,
+   "gen": 7,
+   "name": "crabominable",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.7,
+   "weight": 180
+  },
+  {
+   "ID": 741,
+   "gen": 7,
+   "name": "oricorio",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 3.4
+  },
+  {
+   "ID": 742,
+   "gen": 7,
+   "name": "cutiefly",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.1,
+   "weight": 0.2
+  },
+  {
+   "ID": 743,
+   "gen": 7,
+   "name": "ribombee",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.5
+  },
+  {
+   "ID": 744,
+   "gen": 7,
+   "name": "rockruff",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 9.2
+  },
+  {
+   "ID": 745,
+   "gen": 7,
+   "name": "lycanroc",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 25
+  },
+  {
+   "ID": 746,
+   "gen": 7,
+   "name": "wishiwashi",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.3
+  },
+  {
+   "ID": 747,
+   "gen": 7,
+   "name": "mareanie",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 8
+  },
+  {
+   "ID": 748,
+   "gen": 7,
+   "name": "toxapex",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 14.5
+  },
+  {
+   "ID": 749,
+   "gen": 7,
+   "name": "mudbray",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 110
+  },
+  {
+   "ID": 750,
+   "gen": 7,
+   "name": "mudsdale",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 2.5,
+   "weight": 920
+  },
+  {
+   "ID": 751,
+   "gen": 7,
+   "name": "dewpider",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 4
+  },
+  {
+   "ID": 752,
+   "gen": 7,
+   "name": "araquanid",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.8,
+   "weight": 82
+  },
+  {
+   "ID": 753,
+   "gen": 7,
+   "name": "fomantis",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.5
+  },
+  {
+   "ID": 754,
+   "gen": 7,
+   "name": "lurantis",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.9,
+   "weight": 18.5
+  },
+  {
+   "ID": 755,
+   "gen": 7,
+   "name": "morelull",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 1.5
+  },
+  {
+   "ID": 756,
+   "gen": 7,
+   "name": "shiinotic",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 11.5
+  },
+  {
+   "ID": 757,
+   "gen": 7,
+   "name": "salandit",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 4.8
+  },
+  {
+   "ID": 758,
+   "gen": 7,
+   "name": "salazzle",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 22.2
+  },
+  {
+   "ID": 759,
+   "gen": 7,
+   "name": "stufful",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 6.8
+  },
+  {
+   "ID": 760,
+   "gen": 7,
+   "name": "bewear",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 2.1,
+   "weight": 135
+  },
+  {
+   "ID": 761,
+   "gen": 7,
+   "name": "bounsweet",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.2
+  },
+  {
+   "ID": 762,
+   "gen": 7,
+   "name": "steenee",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.7,
+   "weight": 8.2
+  },
+  {
+   "ID": 763,
+   "gen": 7,
+   "name": "tsareena",
+   "type": "grass",
+   "stage": "second",
+   "group": "none",
+   "height": 1.2,
+   "weight": 21.4
+  },
+  {
+   "ID": 764,
+   "gen": 7,
+   "name": "comfey",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.1,
+   "weight": 0.3
+  },
+  {
+   "ID": 765,
+   "gen": 7,
+   "name": "oranguru",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 76
+  },
+  {
+   "ID": 766,
+   "gen": 7,
+   "name": "passimian",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 82.8
+  },
+  {
+   "ID": 767,
+   "gen": 7,
+   "name": "wimpod",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 12
+  },
+  {
+   "ID": 768,
+   "gen": 7,
+   "name": "golisopod",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 2,
+   "weight": 108
+  },
+  {
+   "ID": 769,
+   "gen": 7,
+   "name": "sandygast",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 70
+  },
+  {
+   "ID": 770,
+   "gen": 7,
+   "name": "palossand",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 250
+  },
+  {
+   "ID": 771,
+   "gen": 7,
+   "name": "pyukumuku",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1.2
+  },
+  {
+   "ID": 772,
+   "gen": 7,
+   "name": "type-null",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.9,
+   "weight": 120.5
+  },
+  {
+   "ID": 773,
+   "gen": 7,
+   "name": "silvally",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 2.3,
+   "weight": 100.5
+  },
+  {
+   "ID": 774,
+   "gen": 7,
+   "name": "minior",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 40
+  },
+  {
+   "ID": 775,
+   "gen": 7,
+   "name": "komala",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 19.9
+  },
+  {
+   "ID": 776,
+   "gen": 7,
+   "name": "turtonator",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 212
+  },
+  {
+   "ID": 777,
+   "gen": 7,
+   "name": "togedemaru",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.3
+  },
+  {
+   "ID": 778,
+   "gen": 7,
+   "name": "mimikyu",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.7
+  },
+  {
+   "ID": 779,
+   "gen": 7,
+   "name": "bruxish",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 19
+  },
+  {
+   "ID": 780,
+   "gen": 7,
+   "name": "drampa",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 3,
+   "weight": 185
+  },
+  {
+   "ID": 781,
+   "gen": 7,
+   "name": "dhelmise",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 3.9,
+   "weight": 210
+  },
+  {
+   "ID": 782,
+   "gen": 7,
+   "name": "jangmo-o",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 29.7
+  },
+  {
+   "ID": 783,
+   "gen": 7,
+   "name": "hakamo-o",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 47
+  },
+  {
+   "ID": 784,
+   "gen": 7,
+   "name": "kommo-o",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 1.6,
+   "weight": 78.2
+  },
+  {
+   "ID": 785,
+   "gen": 7,
+   "name": "tapu-koko",
+   "type": "electric",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.8,
+   "weight": 20.5
+  },
+  {
+   "ID": 786,
+   "gen": 7,
+   "name": "tapu-lele",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.2,
+   "weight": 18.6
+  },
+  {
+   "ID": 787,
+   "gen": 7,
+   "name": "tapu-bulu",
+   "type": "grass",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.9,
+   "weight": 45.5
+  },
+  {
+   "ID": 788,
+   "gen": 7,
+   "name": "tapu-fini",
+   "type": "water",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.3,
+   "weight": 21.2
+  },
+  {
+   "ID": 789,
+   "gen": 7,
+   "name": "cosmog",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 0.2,
+   "weight": 0.1
+  },
+  {
+   "ID": 790,
+   "gen": 7,
+   "name": "cosmoem",
+   "type": "psychic",
+   "stage": "first",
+   "group": "legendary",
+   "height": 0.1,
+   "weight": 999.9
+  },
+  {
+   "ID": 791,
+   "gen": 7,
+   "name": "solgaleo",
+   "type": "psychic",
+   "stage": "second",
+   "group": "legendary",
+   "height": 3.4,
+   "weight": 230
+  },
+  {
+   "ID": 792,
+   "gen": 7,
+   "name": "lunala",
+   "type": "psychic",
+   "stage": "second",
+   "group": "legendary",
+   "height": 4,
+   "weight": 120
+  },
+  {
+   "ID": 793,
+   "gen": 7,
+   "name": "nihilego",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 55.5
+  },
+  {
+   "ID": 794,
+   "gen": 7,
+   "name": "buzzwole",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.4,
+   "weight": 333.6
+  },
+  {
+   "ID": 795,
+   "gen": 7,
+   "name": "pheromosa",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.8,
+   "weight": 25
+  },
+  {
+   "ID": 796,
+   "gen": 7,
+   "name": "xurkitree",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 3.8,
+   "weight": 100
+  },
+  {
+   "ID": 797,
+   "gen": 7,
+   "name": "celesteela",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 9.2,
+   "weight": 999.9
+  },
+  {
+   "ID": 798,
+   "gen": 7,
+   "name": "kartana",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 0.1
+  },
+  {
+   "ID": 799,
+   "gen": 7,
+   "name": "guzzlord",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 5.5,
+   "weight": 888
+  },
+  {
+   "ID": 800,
+   "gen": 7,
+   "name": "necrozma",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.4,
+   "weight": 230
+  },
+  {
+   "ID": 801,
+   "gen": 7,
+   "name": "magearna",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 1,
+   "weight": 80.5
+  },
+  {
+   "ID": 802,
+   "gen": 7,
+   "name": "marshadow",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 22.2
+  },
+  {
+   "ID": 803,
+   "gen": 7,
+   "name": "poipole",
+   "type": "poison",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 1.8
+  },
+  {
+   "ID": 804,
+   "gen": 7,
+   "name": "naganadel",
+   "type": "poison",
+   "stage": "first",
+   "group": "none",
+   "height": 3.6,
+   "weight": 150
+  },
+  {
+   "ID": 805,
+   "gen": 7,
+   "name": "stakataka",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 5.5,
+   "weight": 820
+  },
+  {
+   "ID": 806,
+   "gen": 7,
+   "name": "blacephalon",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.8,
+   "weight": 13
+  },
+  {
+   "ID": 807,
+   "gen": 7,
+   "name": "zeraora",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.5,
+   "weight": 44.5
+  },
+  {
+   "ID": 808,
+   "gen": 7,
+   "name": "meltan",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 8
+  },
+  {
+   "ID": 809,
+   "gen": 7,
+   "name": "melmetal",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.5,
+   "weight": 800
+  },
+  {
+   "ID": 810,
+   "gen": 8,
+   "name": "grookey",
+   "type": "grass",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.3,
+   "weight": 5
+  },
+  {
+   "ID": 811,
+   "gen": 8,
+   "name": "thwackey",
+   "type": "grass",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 14
+  },
+  {
+   "ID": 812,
+   "gen": 8,
+   "name": "rillaboom",
+   "type": "grass",
+   "stage": "second",
+   "group": "starter",
+   "height": 2.1,
+   "weight": 90
+  },
+  {
+   "ID": 813,
+   "gen": 8,
+   "name": "scorbunny",
+   "type": "fire",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.3,
+   "weight": 4.5
+  },
+  {
+   "ID": 814,
+   "gen": 8,
+   "name": "raboot",
+   "type": "fire",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.6,
+   "weight": 9
+  },
+  {
+   "ID": 815,
+   "gen": 8,
+   "name": "cinderace",
+   "type": "fire",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.4,
+   "weight": 33
+  },
+  {
+   "ID": 816,
+   "gen": 8,
+   "name": "sobble",
+   "type": "water",
+   "stage": "basic",
+   "group": "starter",
+   "height": 0.3,
+   "weight": 4
+  },
+  {
+   "ID": 817,
+   "gen": 8,
+   "name": "drizzile",
+   "type": "water",
+   "stage": "first",
+   "group": "starter",
+   "height": 0.7,
+   "weight": 11.5
+  },
+  {
+   "ID": 818,
+   "gen": 8,
+   "name": "inteleon",
+   "type": "water",
+   "stage": "second",
+   "group": "starter",
+   "height": 1.9,
+   "weight": 45.2
+  },
+  {
+   "ID": 819,
+   "gen": 8,
+   "name": "skwovet",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 2.5
+  },
+  {
+   "ID": 820,
+   "gen": 8,
+   "name": "greedent",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 6
+  },
+  {
+   "ID": 821,
+   "gen": 8,
+   "name": "rookidee",
+   "type": "flying",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 1.8
+  },
+  {
+   "ID": 822,
+   "gen": 8,
+   "name": "corvisquire",
+   "type": "flying",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 16
+  },
+  {
+   "ID": 823,
+   "gen": 8,
+   "name": "corviknight",
+   "type": "flying",
+   "stage": "second",
+   "group": "none",
+   "height": 2.2,
+   "weight": 75
+  },
+  {
+   "ID": 824,
+   "gen": 8,
+   "name": "blipbug",
+   "type": "bug",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 8
+  },
+  {
+   "ID": 825,
+   "gen": 8,
+   "name": "dottler",
+   "type": "bug",
+   "stage": "first",
+   "group": "none",
+   "height": 0.4,
+   "weight": 19.5
+  },
+  {
+   "ID": 826,
+   "gen": 8,
+   "name": "orbeetle",
+   "type": "bug",
+   "stage": "second",
+   "group": "none",
+   "height": 0.4,
+   "weight": 40.8
+  },
+  {
+   "ID": 827,
+   "gen": 8,
+   "name": "nickit",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 8.9
+  },
+  {
+   "ID": 828,
+   "gen": 8,
+   "name": "thievul",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 1.2,
+   "weight": 19.9
+  },
+  {
+   "ID": 829,
+   "gen": 8,
+   "name": "gossifleur",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 2.2
+  },
+  {
+   "ID": 830,
+   "gen": 8,
+   "name": "eldegoss",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.5,
+   "weight": 2.5
+  },
+  {
+   "ID": 831,
+   "gen": 8,
+   "name": "wooloo",
+   "type": "normal",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 6
+  },
+  {
+   "ID": 832,
+   "gen": 8,
+   "name": "dubwool",
+   "type": "normal",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 43
+  },
+  {
+   "ID": 833,
+   "gen": 8,
+   "name": "chewtle",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 8.5
+  },
+  {
+   "ID": 834,
+   "gen": 8,
+   "name": "drednaw",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 115.5
+  },
+  {
+   "ID": 835,
+   "gen": 8,
+   "name": "yamper",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 13.5
+  },
+  {
+   "ID": 836,
+   "gen": 8,
+   "name": "boltund",
+   "type": "electric",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 34
+  },
+  {
+   "ID": 837,
+   "gen": 8,
+   "name": "rolycoly",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 12
+  },
+  {
+   "ID": 838,
+   "gen": 8,
+   "name": "carkol",
+   "type": "rock",
+   "stage": "first",
+   "group": "none",
+   "height": 1.1,
+   "weight": 78
+  },
+  {
+   "ID": 839,
+   "gen": 8,
+   "name": "coalossal",
+   "type": "rock",
+   "stage": "second",
+   "group": "none",
+   "height": 2.8,
+   "weight": 310.5
+  },
+  {
+   "ID": 840,
+   "gen": 8,
+   "name": "applin",
+   "type": "grass",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.5
+  },
+  {
+   "ID": 841,
+   "gen": 8,
+   "name": "flapple",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1
+  },
+  {
+   "ID": 842,
+   "gen": 8,
+   "name": "appletun",
+   "type": "grass",
+   "stage": "first",
+   "group": "none",
+   "height": 0.4,
+   "weight": 13
+  },
+  {
+   "ID": 843,
+   "gen": 8,
+   "name": "silicobra",
+   "type": "ground",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.2,
+   "weight": 7.6
+  },
+  {
+   "ID": 844,
+   "gen": 8,
+   "name": "sandaconda",
+   "type": "ground",
+   "stage": "first",
+   "group": "none",
+   "height": 3.8,
+   "weight": 65.5
+  },
+  {
+   "ID": 845,
+   "gen": 8,
+   "name": "cramorant",
+   "type": "flying",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.8,
+   "weight": 18
+  },
+  {
+   "ID": 846,
+   "gen": 8,
+   "name": "arrokuda",
+   "type": "water",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 1
+  },
+  {
+   "ID": 847,
+   "gen": 8,
+   "name": "barraskewda",
+   "type": "water",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 30
+  },
+  {
+   "ID": 848,
+   "gen": 8,
+   "name": "toxel",
+   "type": "electric",
+   "stage": "basic",
+   "group": "baby",
+   "height": 0.4,
+   "weight": 11
+  },
+  {
+   "ID": 849,
+   "gen": 8,
+   "name": "toxtricity",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.6,
+   "weight": 40
+  },
+  {
+   "ID": 850,
+   "gen": 8,
+   "name": "sizzlipede",
+   "type": "fire",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.7,
+   "weight": 1
+  },
+  {
+   "ID": 851,
+   "gen": 8,
+   "name": "centiskorch",
+   "type": "fire",
+   "stage": "first",
+   "group": "none",
+   "height": 3,
+   "weight": 120
+  },
+  {
+   "ID": 852,
+   "gen": 8,
+   "name": "clobbopus",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 4
+  },
+  {
+   "ID": 853,
+   "gen": 8,
+   "name": "grapploct",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 1.6,
+   "weight": 39
+  },
+  {
+   "ID": 854,
+   "gen": 8,
+   "name": "sinistea",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.1,
+   "weight": 0.2
+  },
+  {
+   "ID": 855,
+   "gen": 8,
+   "name": "polteageist",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.4
+  },
+  {
+   "ID": 856,
+   "gen": 8,
+   "name": "hatenna",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 3.4
+  },
+  {
+   "ID": 857,
+   "gen": 8,
+   "name": "hattrem",
+   "type": "psychic",
+   "stage": "first",
+   "group": "none",
+   "height": 0.6,
+   "weight": 4.8
+  },
+  {
+   "ID": 858,
+   "gen": 8,
+   "name": "hatterene",
+   "type": "psychic",
+   "stage": "second",
+   "group": "none",
+   "height": 2.1,
+   "weight": 5.1
+  },
+  {
+   "ID": 859,
+   "gen": 8,
+   "name": "impidimp",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.4,
+   "weight": 5.5
+  },
+  {
+   "ID": 860,
+   "gen": 8,
+   "name": "morgrem",
+   "type": "dark",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 12.5
+  },
+  {
+   "ID": 861,
+   "gen": 8,
+   "name": "grimmsnarl",
+   "type": "dark",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 61
+  },
+  {
+   "ID": 862,
+   "gen": 8,
+   "name": "obstagoon",
+   "type": "dark",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 46
+  },
+  {
+   "ID": 863,
+   "gen": 8,
+   "name": "perrserker",
+   "type": "steel",
+   "stage": "second",
+   "group": "none",
+   "height": 0.8,
+   "weight": 28
+  },
+  {
+   "ID": 864,
+   "gen": 8,
+   "name": "cursola",
+   "type": "ghost",
+   "stage": "first",
+   "group": "none",
+   "height": 1,
+   "weight": 0.4
+  },
+  {
+   "ID": 865,
+   "gen": 8,
+   "name": "sirfetchd",
+   "type": "fighting",
+   "stage": "first",
+   "group": "none",
+   "height": 0.8,
+   "weight": 117
+  },
+  {
+   "ID": 866,
+   "gen": 8,
+   "name": "mr-rime",
+   "type": "ice",
+   "stage": "second",
+   "group": "none",
+   "height": 1.5,
+   "weight": 58.2
+  },
+  {
+   "ID": 867,
+   "gen": 8,
+   "name": "runerigus",
+   "type": "ground",
+   "stage": "second",
+   "group": "none",
+   "height": 1.6,
+   "weight": 66.6
+  },
+  {
+   "ID": 868,
+   "gen": 8,
+   "name": "milcery",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.2,
+   "weight": 0.3
+  },
+  {
+   "ID": 869,
+   "gen": 8,
+   "name": "alcremie",
+   "type": "fairy",
+   "stage": "first",
+   "group": "none",
+   "height": 0.3,
+   "weight": 0.5
+  },
+  {
+   "ID": 870,
+   "gen": 8,
+   "name": "falinks",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 3,
+   "weight": 62
+  },
+  {
+   "ID": 871,
+   "gen": 8,
+   "name": "pincurchin",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 1
+  },
+  {
+   "ID": 872,
+   "gen": 8,
+   "name": "snom",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3.8
+  },
+  {
+   "ID": 873,
+   "gen": 8,
+   "name": "frosmoth",
+   "type": "ice",
+   "stage": "first",
+   "group": "none",
+   "height": 1.3,
+   "weight": 42
+  },
+  {
+   "ID": 874,
+   "gen": 8,
+   "name": "stonjourner",
+   "type": "rock",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.5,
+   "weight": 520
+  },
+  {
+   "ID": 875,
+   "gen": 8,
+   "name": "eiscue",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.4,
+   "weight": 89
+  },
+  {
+   "ID": 876,
+   "gen": 8,
+   "name": "indeedee",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.9,
+   "weight": 28
+  },
+  {
+   "ID": 877,
+   "gen": 8,
+   "name": "morpeko",
+   "type": "electric",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.3,
+   "weight": 3
+  },
+  {
+   "ID": 878,
+   "gen": 8,
+   "name": "cufant",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.2,
+   "weight": 100
+  },
+  {
+   "ID": 879,
+   "gen": 8,
+   "name": "copperajah",
+   "type": "steel",
+   "stage": "first",
+   "group": "none",
+   "height": 3,
+   "weight": 650
+  },
+  {
+   "ID": 880,
+   "gen": 8,
+   "name": "dracozolt",
+   "type": "electric",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 1.8,
+   "weight": 190
+  },
+  {
+   "ID": 881,
+   "gen": 8,
+   "name": "arctozolt",
+   "type": "electric",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 2.3,
+   "weight": 150
+  },
+  {
+   "ID": 882,
+   "gen": 8,
+   "name": "dracovish",
+   "type": "water",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 2.3,
+   "weight": 215
+  },
+  {
+   "ID": 883,
+   "gen": 8,
+   "name": "arctovish",
+   "type": "water",
+   "stage": "basic",
+   "group": "fossil",
+   "height": 2,
+   "weight": 175
+  },
+  {
+   "ID": 884,
+   "gen": 8,
+   "name": "duraludon",
+   "type": "steel",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.8,
+   "weight": 40
+  },
+  {
+   "ID": 885,
+   "gen": 8,
+   "name": "dreepy",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.5,
+   "weight": 2
+  },
+  {
+   "ID": 886,
+   "gen": 8,
+   "name": "drakloak",
+   "type": "dragon",
+   "stage": "first",
+   "group": "none",
+   "height": 1.4,
+   "weight": 11
+  },
+  {
+   "ID": 887,
+   "gen": 8,
+   "name": "dragapult",
+   "type": "dragon",
+   "stage": "second",
+   "group": "pseudolegendary",
+   "height": 3,
+   "weight": 50
+  },
+  {
+   "ID": 888,
+   "gen": 8,
+   "name": "zacian",
+   "type": "fairy",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.8,
+   "weight": 110
+  },
+  {
+   "ID": 889,
+   "gen": 8,
+   "name": "zamazenta",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.9,
+   "weight": 210
+  },
+  {
+   "ID": 890,
+   "gen": 8,
+   "name": "eternatus",
+   "type": "poison",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 20,
+   "weight": 950
+  },
+  {
+   "ID": 891,
+   "gen": 8,
+   "name": "kubfu",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 0.6,
+   "weight": 12
+  },
+  {
+   "ID": 892,
+   "gen": 8,
+   "name": "urshifu",
+   "type": "fighting",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.9,
+   "weight": 105
+  },
+  {
+   "ID": 893,
+   "gen": 8,
+   "name": "zarude",
+   "type": "dark",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.8,
+   "weight": 70
+  },
+  {
+   "ID": 894,
+   "gen": 8,
+   "name": "regieleki",
+   "type": "electric",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 1.2,
+   "weight": 145
+  },
+  {
+   "ID": 895,
+   "gen": 8,
+   "name": "regidrago",
+   "type": "dragon",
+   "stage": "basic",
+   "group": "legendary",
+   "height": 2.1,
+   "weight": 200
+  },
+  {
+   "ID": 896,
+   "gen": 8,
+   "name": "glastrier",
+   "type": "ice",
+   "stage": "basic",
+   "group": "none",
+   "height": 2.2,
+   "weight": 800
+  },
+  {
+   "ID": 897,
+   "gen": 8,
+   "name": "spectrier",
+   "type": "ghost",
+   "stage": "basic",
+   "group": "none",
+   "height": 2,
+   "weight": 44.5
+  },
+  {
+   "ID": 898,
+   "gen": 8,
+   "name": "calyrex",
+   "type": "psychic",
+   "stage": "basic",
+   "group": "none",
+   "height": 1.1,
+   "weight": 7.7
+  }
+ ]
+}
