@@ -102,7 +102,7 @@ checkDownloadedASCIIFiles () {
   local N_ASCII_files=$(ls $DATA_ASCII -1 | wc -l)
   local downcounter=1
   for downloadedFile in $DATA_ASCII/*.txt; do
-    echo -e "\r${downcounter}/${N_ASCII_files}"
+    echo -en "${downcounter}/${N_ASCII_files}\r"
     local tempMD5=$(md5sum $downloadedFile | awk '{print $1}')
     local counter=1
     # For every ASCII file, check if their name and hashes do match
@@ -117,6 +117,7 @@ checkDownloadedASCIIFiles () {
     done < $md5nameASCII
     let "downcounter += 1"
   done
+  echo
   
   # Second, check JSON files
   local md5nameJSON="${ROOT_FOLDER}/_md5sum_json_files.txt"
