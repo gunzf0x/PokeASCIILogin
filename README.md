@@ -141,7 +141,7 @@ wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh 
 
    This will do the following:
    - Clone the repo (create a folder and download all needed files within it)
-   - Check if files have been downloaded properly
+   - (Optional) Check if files have been downloaded properly (search for 'Uncomment' commentary in `install.sh`)
    - Add the executable to your `.rc` file if you are using Bash or Zsh shell. If you use a different shell you will have to add the executable manually  to your equivalent of `.rc` file (`.bashrc` in Bash, `.zshrc` in Zsh) of your shell (see step 2 in 'Manual Installation')
 
 3.  (Optional) You might need to give some permissions to the executable with:
