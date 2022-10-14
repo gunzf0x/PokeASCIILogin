@@ -1,4 +1,0 @@
-To do list:
-- Add customizable Pokemon, so the user can select Pokemon he/she desire
-using the file inside "custom" folder
-- Add option to order by number, weight or height
