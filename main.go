@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 	"log"
-	"pokemon_ascii/clear_screen"
-	"pokemon_ascii/get_data"
-	"pokemon_ascii/print_color"
-	"pokemon_ascii/read_files"
+	"github.com/p4nchit0z/PokeASCIILogin/clear_screen"
+	"github.com/p4nchit0z/PokeASCIILogin/get_data"
+	"github.com/p4nchit0z/PokeASCIILogin/print_color"
+	"github.com/p4nchit0z/PokeASCIILogin/read_files"
 )
 
 // Filenames containing important data such as configuration and info for every Pokemon
