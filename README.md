@@ -157,15 +157,13 @@ git clone github.com/p4nchit0z/PokeASCIILogin
 2. Add the cloned executable to your .rc file (`.bashrc` for Bash shell, `.zshrc` for ZSH shell and so on...)
 
 ```
-echo "./abs/path/to/PokeASCII/executable" >> $HOME/"YOUR_RC_FILE_HERE"
+echo "/abs/path/to/PokeASCII/executable" >> $HOME/"YOUR_RC_FILE_HERE"
 ```
 for example, if your user is `MyUsername` and you use `ZSH` shell:
 ```
-echo "./home/MyUsername/PokeASCIILogin/PokeASCIILogin" >> $HOME/.zshrc
+echo "/home/MyUsername/PokeASCIILogin/PokeASCIILogin" >> $HOME/.zshrc
 ```
-
-do not forget the point `.` at `./abs/path/to/PokeASCII/executable` to execute the binary.
-
+where `"/home/MyUsername/PokeASCIILogin/PokeASCIILogin"` is the absolute path to PokeASCIILogin executable.
 
 3. (Optional) You might need to give some permissions to the executable with:
    ```
