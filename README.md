@@ -146,7 +146,7 @@ wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh 
 
 3.  (Optional) You might need to give some permissions to the executable with:
    ```
-   chmod +x ./abs/path/to/PokeASCII/executable
+   chmod +x /abs/path/to/PokeASCII/executable
    ```
 #### II. Manual way
 1. Clone the repo
@@ -167,7 +167,7 @@ where `"/home/MyUsername/PokeASCIILogin/PokeASCIILogin"` is the absolute path to
 
 3. (Optional) You might need to give some permissions to the executable with:
    ```
-   chmod +x ./abs/path/to/PokeASCII/executable
+   chmod +x /abs/path/to/PokeASCII/executable
    ```
 
 4. Restart your terminal, or run:
