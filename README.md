@@ -31,7 +31,6 @@
 <div align="center">
 <a href="https://github.com/p4nchit0z/PokeASCIILogin">
    <img src="images/pokemonLoginPresentation.png" alt="Logo" width="1000" height="250"></a>
-![First View](images/pokemonLoginPresentation.png "PokeASCIILogin first view")
 
 
 <h3 align="center">PokeASCIILogin</h3>
@@ -129,7 +128,11 @@ Since it is written in Go, here I provide an executable binary. So you do not ne
 ## Installation
 I provide 2 different ways to install this script:
 #### I. Install with a simple Bash script
-1. Download `install.sh` script from the repo using `wget` or `curl` (we use `wget` in this example) [https://example.com](https://example.com)
+1. Download `install.sh` script from the repo using `wget` or `curl` (we use `wget` in this example)
+```
+wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh -O install.sh
+```
+
 2. Execute the script
    ```sh
    bash install.sh
@@ -140,7 +143,8 @@ I provide 2 different ways to install this script:
    - Clone the repo (create a folder and download all needed files within it)
    - Check if files have been downloaded properly
    - Add the executable to your `.rc` file if you are using Bash or Zsh shell. If you use a different shell you will have to add the executable manually  to your equivalent of `.rc` file (`.bashrc` in Bash, `.zshrc` in Zsh) of your shell (see step 2 in 'Manual Installation')
-   3. (Optional) You might need to give some permissions to the executable with:
+
+3.  (Optional) You might need to give some permissions to the executable with:
    ```
    chmod +x ./abs/path/to/PokeASCII/executable
    ```
@@ -206,28 +210,11 @@ See the [open issues](https://github.com/p4nchit0z/PokeASCIILogin/issues) for a 
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU General Public License v3.0. See [LICENSE](license) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
