@@ -99,7 +99,10 @@ checkDownloadedASCIIFiles () {
   local md5nameASCII="${ROOT_FOLDER}/_md5sum_ascii_pokemon.txt"
   local md5LinesASCII=$(wc -l < $md5nameASCII)
   # Start checking every ASCII.txt file
-  for downloadedFile in $DATA_ASCII/*.txt; do 
+  local N_ASCII_files=$(ls $DATA_ASCII -1 | wc -l)
+  local downcounter=1
+  for downloadedFile in $DATA_ASCII/*.txt; do
+    echo -e "\r${downcounter}/${N_ASCII_files}"
     local tempMD5=$(md5sum $downloadedFile | awk '{print $1}')
     local counter=1
     # For every ASCII file, check if their name and hashes do match
@@ -112,6 +115,7 @@ checkDownloadedASCIIFiles () {
         echo -e "${RED}    Warning! No md5sum hash match found for '$downloadedFile' file${NC}"
       fi
     done < $md5nameASCII
+    let "downcounter += 1"
   done
   
   # Second, check JSON files
@@ -211,7 +215,8 @@ main (){
   checkGit
 
   # Check that ASCII Pokemon files have been downloaded correctly
-  checkDownloadedASCIIFiles
+  # This takes a long time. Uncomment 'checkDownloadedASCIIFiles' line if you have time and if you want to check if files have been downloaded properly
+  #checkDownloadedASCIIFiles 
 
   # Check which shell user is using and append binary execution to init file
   checkShellandAppendExec
