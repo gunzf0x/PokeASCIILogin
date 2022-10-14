@@ -11,7 +11,7 @@ import (
 
 // Filenames containing important data such as configuration and info for every Pokemon
 // Info obtained from PokeAPI (https://pokeapi.co/docs/v2 && https://github.com/mtslzr/pokeapi-go)
-var (
+const (
 	CONFIG_FILE  string = "/data/config.json"
 	DATA_POKEMON string = "/data/pokemon.json"
 )
