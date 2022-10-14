@@ -40,7 +40,7 @@ cb6a5d0b7a12348e43e876779c28bcbb  azumarill.txt
 cfb5029eba26048502949c468e228632  bagon.txt
 ca81c33ea28393c99a7f00de299c7018  baltoy.txt
 e4929eee1df0f5ab12b45bae264a5cd0  banette.txt
-c989e0089c1fbc62b3391d4e132ee3e6  barbacle.txt
+c989e0089c1fbc62b3391d4e132ee3e6  barbaracle.txt
 0fe35010bb2f8100ba3e017441e6df22  barboach.txt
 e1aba9c621d52502a46d5ac8df1da69b  barraskewda.txt
 199c892df4762a1d2f23e63b7d876529  basculegion.txt
