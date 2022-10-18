@@ -29,7 +29,7 @@ printWhatWillBeDone () {
   createStar "1"
   echo -e " Using 'git' command download data from Github repository"
   createStar "2"
-  echo -e " Check if data has been downloaded correctly comparing md5sum hashes"
+  echo -e " (Optional) Check if data has been downloaded correctly comparing md5sum hashes"
   createStar "3"
   echo -e " Check current shell (bash and zsh automatically supported; other shells will need next step to be 'manual')"
   createStar "4"
