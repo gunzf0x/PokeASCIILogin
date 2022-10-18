@@ -32,6 +32,7 @@
 <a href="https://github.com/p4nchit0z/PokeASCIILogin">
    <img src="images/pokemonLoginPresentation.png" alt="Logo" width="1000" height="250"></a>
 
+   <img src="images/multiple_examples.gif" alt="Logo" width="800" height="250"></a>
 
 <h3 align="center">PokeASCIILogin</h3>
 
