@@ -2,7 +2,7 @@
   "choosePokemon": "default",
   "group": "random",
   "color": "default",
-  "style": "reverse",
+  "style": "none",
   "gen": 0,
   "repeatType": false,
   "repeatColor": false,
