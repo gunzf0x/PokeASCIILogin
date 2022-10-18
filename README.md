@@ -148,7 +148,7 @@ If the program is capable of reading the number of columns in your terminal, Pok
 
 In your `PokeASCIILogin` directory you have just cloned, you will find another directory called `data` and within it a JSON file called `config.json`. Changing values in `data/config.json` file will configure Pokemon that will be printed. You can set the following parameters to 'customize' Pokemon printed as follows:
 
-- `gen`: Value can be set from `0` to `8`. This is the number of the gen of Pokemon you want to print. For example, setting this value to `"gen": 1` will only print Pokemon from 1st gen. Default value is `0`, where `0` basically means "any gen".
+- `gen`: Value can be set from `0` to `8`. This is Pokemon gen number you want to print. For example, setting this value to `"gen": 1` will only print Pokemon from 1st gen. Default value is `0`, where `0` basically means "any gen".
 - `color`: Color for every Pokemon to be printed. Default value is `default`, which means every Pokemon will be printed with a color related with its primary type as provided by [PokeApi](https://pokeapi.co/). Others values accepted are `random` which will select a completely random color for every Pokemon or you just can type a color, e.g., `"color": "red"` will print all Pokemon in red color.
 - `style`: This one is my favorite. Typical terminals have 2 styles allowed: `blink` and `reverse`. Changing style to one of these options will look like the following: 
  
@@ -159,7 +159,7 @@ In your `PokeASCIILogin` directory you have just cloned, you will find another d
 
   Default `style` is `none`.
 
-- `group`: I decided to group Pokemon is some groups, which are `starter`, `legendary`, `pseudolegendary`, `favorite` and `none`. Where `none` are simply Pokemon that do not belong to the first 4 groups mentioned. 
+- `group`: I decided to group Pokemon is some groups, which are `starter`, `legendary`, `pseudolegendary`, `favorite` and `none`. Where `none` are simply Pokemon that do not belong to the first 4 groups mentioned. Default is `random`, which is any group.
 
    P.S.: If you really love some Pokemon and you always want it on your screen, a 'hack' tip is editing `data/config.json` file to the Pokemon you wish, and change its group to `favorite`.
 <p align="right">(<a href="#top">back to top</a>)</p>
