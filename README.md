@@ -30,14 +30,13 @@
 <br />
 <div align="center">
 <a href="https://github.com/p4nchit0z/PokeASCIILogin">
-   <img src="images/pokemonLoginPresentation.png" alt="Logo" width="1000" height="250"></a>
-
-   <img src="images/multiple_examples.gif" alt="Logo" width="800" height="250"></a>
+   <img src="images/pokemonLoginPresentation.png" alt="Logo" width="1000" height="230"></a>
 
 <h3 align="center">PokeASCIILogin</h3>
 
   <p align="center">
     A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!)
+       <img src="images/multiple_examples.gif" alt="Logo" width="1000" height="200"></a>
     <br />
     <a href="https://github.com/p4nchit0z/PokeASCIILogin"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,21 +56,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">About The Project</a>     
     </li>
     <li>
       <a href="#prerequisites">Prerequisites</a>     
       <li><a href="#installation">Installation</a></li>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#coming-soon">Coming Soon...</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a>
+    <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
@@ -104,86 +103,21 @@ There was a time where I used [Pokemon Terminal](https://github.com/LazoCoder/Po
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-### Built With
-
-* [The Go Programming language](https://go.dev/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
----
-
 <!-- GETTING STARTED -->
 
 ## Prerequisites
 
-Since it is written in Go, here I provide an executable binary. So you do not need to install Go on your machine. 
+Since it is written in Go, here I provide an executable binary. So you do not need to install Go or any other dependencies on your machine. Enjoy!
 
-*Alternative*: You just need Go on your machine
+*Alternative*: You just need Go on your machine and build the project with `go build` command.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## Installation
-I provide 2 different ways to install this script:
-#### I. If you use Zsh or Bash, I recommend to install it with a simple Bash script
-1. Download `install.sh` script from the repo using `wget` or `curl` (we use `wget` in this example)
-```
-wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh -O install.sh
-```
 
-2. Execute the script
-   ```sh
-   bash install.sh
-   ```
-   P.S.: you might need to provide permissions with `chmod +x install.sh` command
+See [Installation guide](installation.md) to check how to install it on your machine!
 
-   This will do the following:
-   - Clone the repo (create a folder and download all needed files within it)
-   - (Optional) Check if files have been downloaded properly (search for 'Uncomment' commentary in `install.sh`)
-   - Add the executable to your `.rc` file if you are using Bash or Zsh shell. If you use a different shell you will have to add the executable manually  to your equivalent of `.rc` file (`.bashrc` in Bash, `.zshrc` in Zsh) of your shell (see step 2 in 'Manual Installation')
-
-3.  (Optional) You might need to give some permissions to the executable with:
-   ```
-   chmod +x /abs/path/to/PokeASCII/executable
-   ```
-
-4. Restart your terminal, or run:
-```
-source YOUR_RC_FILE_HERE
-```
-where `YOUR_RC_FILE_HERE` is `.zshrc` for Zsh and `.bashrc` for Bash shell.
-
-
-#### II. Manual way
-1. Clone the repo
-```
-git clone github.com/p4nchit0z/PokeASCIILogin
-```
-
-2. Add the cloned executable to your .rc file (`.bashrc` for Bash shell, `.zshrc` for ZSH shell and so on...)
-
-```
-echo "/abs/path/to/PokeASCII/executable" >> $HOME/"YOUR_RC_FILE_HERE"
-```
-for example, if your user is `MyUsername` and you use `ZSH` shell:
-```
-echo "/home/MyUsername/PokeASCIILogin/PokeASCIILogin" >> $HOME/.zshrc
-```
-where `"/home/MyUsername/PokeASCIILogin/PokeASCIILogin"` is the absolute path to PokeASCIILogin executable.
-
-3. (Optional) You might need to give some permissions to the executable with:
-   ```
-   chmod +x /abs/path/to/PokeASCII/executable
-   ```
-
-4. Restart your terminal, or run:
-```
-source YOUR_RC_FILE_HERE
-```
-where in my example this is:
-```
-source $HOME/.zshrc
-```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,13 +126,45 @@ source $HOME/.zshrc
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Since it is a simple executable you just can type in your terminal:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```
+abs/path/to/PokeASCIILogin
+```
+
+will show you something like
+
+![Simple terminal example](images/1_example.png "Simple terminal example")
+
+However, since I tried to create it as a 'login', I recommend to add this executable to your "resource file" `.rc` for more fun!
+
+If the program is capable of reading the number of columns in your terminal, Pokemon printed will be centered. Otherwise they will just be printed at left side (just as a normal print).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+---
 
+### Configuration / Customization
+
+In your `PokeASCIILogin` directory you have just cloned, you will find another directory called `data` and within it a JSON file called `config.json`. Changing values in `data/config.json` file will configure Pokemon that will be printed. You can set the following parameters to 'customize' Pokemon printed as follows:
+
+- `gen`: Value can be set from `0` to `8`. This is the number of the gen of Pokemon you want to print. For example, setting this value to `"gen": 1` will only print Pokemon from 1st gen. Default value is `0`, where `0` basically means "any gen".
+- `color`: Color for every Pokemon to be printed. Default value is `default`, which means every Pokemon will be printed with a color related with its primary type as provided by [PokeApi](https://pokeapi.co/). Others values accepted are `random` which will select a completely random color for every Pokemon or you just can type a color, e.g., `"color": "red"` will print all Pokemon in red color.
+- `style`: This one is my favorite. Typical terminals have 2 styles allowed: `blink` and `reverse`. Changing style to one of these options will look like the following: 
+ 
+  - `blink`
+  ![Simple blink example](images/2_example.gif "Simple blink effect example")
+  - `reverse`
+  ![Simple reverse example](images/3_example.png "Simple reverse effect example")
+
+  Default `style` is `none`.
+
+- `group`: I decided to group Pokemon is some groups, which are `starter`, `legendary`, `pseudolegendary`, `favorite` and `none`. Where `none` are simply Pokemon that do not belong to the first 4 groups mentioned. 
+
+   P.S.: If you really love some Pokemon and you always want it on your screen, a 'hack' tip is editing `data/config.json` file to the Pokemon you wish, and change its group to `favorite`.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 
 <!-- ROADMAP -->
 ## Coming Soon...
@@ -214,7 +180,7 @@ See the [open issues](https://github.com/p4nchit0z/PokeASCIILogin/issues) for a 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+---
 
 <!-- LICENSE -->
 ## License
@@ -223,7 +189,7 @@ Distributed under the GNU General Public License v3.0. See [LICENSE](license-url
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+---
 
 <!-- CONTACT -->
 ## Contact
@@ -234,13 +200,19 @@ Project Link: [https://github.com/p4nchit0z/PokeASCIILogin](https://github.com/p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+---
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [PokeApi - The RESTful Pokémon API](https://pokeapi.co/)
 * [pokeapi-go - Wrapper for PokeApi in Go](https://github.com/mtslzr/pokeapi-go)
+
+### Built With
+
+* [The Go Programming language](https://go.dev/)
+
+---
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
