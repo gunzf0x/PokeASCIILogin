@@ -36,7 +36,7 @@
 <h3 align="center">PokeASCIILogin</h3>
 
   <p align="center">
-    A simple, useless but also pretty script written in Go that prints random Pokemons across your terminal every time you login (or every time you want!)
+    A simple, useless but also pretty script written in Go that prints random Pokemon across your terminal every time you login (or every time you want!)
     <br />
     <a href="https://github.com/p4nchit0z/PokeASCIILogin"><strong>Explore the docs »</strong></a>
     <br />
@@ -62,11 +62,8 @@
       </ul>
     </li>
     <li>
-      <a href="#installation">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installing">Installation</a></li>
-      </ul>
+      <a href="#prerequisites">Prerequisites</a>     
+      <li><a href="#installation">Installation</a></li>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -127,7 +124,7 @@ Since it is written in Go, here I provide an executable binary. So you do not ne
 
 ## Installation
 I provide 2 different ways to install this script:
-#### I. Install with a simple Bash script
+#### I. If you use Zsh or Bash, I recommend to install it with a simple Bash script
 1. Download `install.sh` script from the repo using `wget` or `curl` (we use `wget` in this example)
 ```
 wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh -O install.sh
@@ -148,6 +145,14 @@ wget https://raw.githubusercontent.com/p4nchit0z/PokeASCIILogin/main/install.sh 
    ```
    chmod +x /abs/path/to/PokeASCII/executable
    ```
+
+4. Restart your terminal, or run:
+```
+source YOUR_RC_FILE_HERE
+```
+where `YOUR_RC_FILE_HERE` is `.zshrc` for Zsh and `.bashrc` for Bash shell.
+
+
 #### II. Manual way
 1. Clone the repo
 ```
@@ -195,12 +200,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Coming Soon...
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Depending on the support this simple thing has, I will try to add the following features
+
+- [ ] Be able to select completely custom Pokemon just by their name or ID
+- [ ] Order Pokemon by different criterias such as ID, weight, height, etc
+
 
 See the [open issues](https://github.com/p4nchit0z/PokeASCIILogin/issues) for a full list of proposed features (and known issues).
 
@@ -212,7 +218,7 @@ See the [open issues](https://github.com/p4nchit0z/PokeASCIILogin/issues) for a 
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU General Public License v3.0. See [LICENSE](license) for more information.
+Distributed under the GNU General Public License v3.0. See [LICENSE](license-url) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -250,7 +256,7 @@ Project Link: [https://github.com/p4nchit0z/PokeASCIILogin](https://github.com/p
 [issues-shield]: https://img.shields.io/github/issues/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
 [issues-url]: https://github.com/p4nchit0z/PokeASCIILogin/issues
 [license-shield]: https://img.shields.io/github/license/p4nchit0z/PokeASCIILogin.svg?style=for-the-badge
-[license-url]: https://github.com/p4nchit0z/PokeASCIILogin/blob/master/LICENSE.txt
+[license-url]: https://github.com/p4nchit0z/PokeASCIILogin/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/francisco-carrasco-varela-cl
 [product-screenshot]: images/screenshot.png
